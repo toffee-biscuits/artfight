@@ -1,0 +1,255 @@
+<div id="user_PERMISSIONS" class="container">
+    <div id="user_PERMISSIONS_BOXES" class="row d-flex justify-content-center no-gutters my-1">
+        <!-- YES BOX -->
+        <div id="user_YESBOX" class="col-md m-1">
+            <div id="user_YESBOX_HEADER" class="p-2 rounded-top bg-success text-center text-uppercase font-weight-bold"
+                style="font-size:1.2rem;letter-spacing:0.1rem;">
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2 bg-success"></div>
+                    <!-- YES HEADER -->
+                    <div class="mx-3 text-white">
+                        <i class="fa-regular fa-circle-check"></i> You can <i class="fa-regular fa-circle-check"></i>
+                    </div>
+                    <!-- / YES HEADER END -->
+                    <div class="flex-grow-1 card my-auto mr-2 bg-success"></div>
+                </div>
+            </div>
+            <div id="user_YESBOXCONTENT" class="p-3 rounded-bottom border border-success">
+                <!-- YES DESIGN / STYLE -->
+                <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-success"></i></span>
+                        Draw <span class="text-success">my characters with yours / my other ones / canon ones</span> platonically
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-success"></i></span>
+                        Use <span class="text-success">different outfits</span>
+                        <br>
+                        <span style="font-size:smaller;color:grey;">(But please try to keep to the general style/theme/vibe of the character)</span>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-success"></i></span>
+                        Draw <span class="text-success">mild/moderate filtered gore</span> but not from the <span class="text-danger">flayed/missing skin, nail trauma, or eye trauma</span> sections
+                    </li>
+                </ul>
+                <!-- / YES DESIGN / STYLE END-->
+            </div>
+        </div>
+        <!-- / YES BOX END -->
+        
+        <!-- MAYBE BOX -->
+        <div id="user_NOBOX" class="col-md m-1">
+            <div id="user_NOBOX_HEADER" class="p-2 rounded-top bg-warning text-center text-uppercase font-weight-bold"
+                style="font-size:1.2rem;letter-spacing:0.1rem;">
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2 bg-warning"></div>
+                    <!-- MAYBE BOX HEADER -->
+                    <div class="mx-3 text-white">
+                        <i class="fa-regular fa-circle-question"></i> Ask About <i class="fa-regular fa-circle-question"></i>
+                    </div>
+                    <!-- / MAYBE BOX HEADER END -->
+                    <div class="flex-grow-1 card my-auto mr-2 bg-warning"></div>
+                </div>
+            </div>
+            <div id="user_NOBOXCONTENT" class="p-3 rounded-bottom border border-warning">
+                <!-- MAYBE DESIGN / STYlE CONTENT -->
+                <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-warning"></i></span>
+                        Making <span class="text-warning">human/anthro/feral versions</span>
+                        <br>
+                        <span style="font-size:smaller;color:grey;">(The answer is likely yes but with certain characteristics I'd like to keep)</span>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-warning"></i></span>
+                        Drawing <span class="text-warning">my characters with other ones romantically</span>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-warning"></i></span>
+                        Including my characters in <span class="text-warning">random assortment mass attacks / group pieces</span>
+                        <br>
+                        <span style="font-size:smaller;color:grey;">(But again, drawing with my/your/canon characters is welcome!)</span>
+                    </li>
+                </ul>
+                <!-- / MAYBE DESIGN / STYLE CONTENT END -->
+            </div>
+        </div>
+        <!-- / MAYBE BOX END -->
+        
+        <!-- NO BOX -->
+        <div id="user_NOBOX" class="col-md m-1">
+            <div id="user_NOBOX_HEADER" class="p-2 rounded-top bg-danger text-center text-uppercase font-weight-bold"
+                style="font-size:1.2rem;letter-spacing:0.1rem;">
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2 bg-danger"></div>
+                    <!-- NO BOX HEADER -->
+                    <div class="mx-3 text-white">
+                        <i class="fa-regular fa-circle-x"></i> You Can't <i class="fa-regular fa-circle-x"></i>
+                    </div>
+                    <!-- / NO BOX HEADER END -->
+                    <div class="flex-grow-1 card my-auto mr-2 bg-danger"></div>
+                </div>
+            </div>
+            <div id="user_NOBOXCONTENT" class="p-3 rounded-bottom border border-danger">
+                <!-- NO DESIGN / STYlE CONTENT -->
+                <div class="text-uppercase mb-1 font-weight-bold"
+                    style="font-size:0.9rem;letter-spacing:0.1rem;color:grey;">Design / Style</div>
+                <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-danger"></i></span>
+                        Draw <span class="text-danger">needles / objects piercing skin</span>
+                        <br>
+                        <span style="font-size:smaller;color:grey;">(Characters holding like a knife is fine but please avoid all needles)</span>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-danger"></i></span>
+                        Draw <span class="text-danger">NSFW</span>, nudity or suggestive themes
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-danger"></i></span>
+                        Draw <span class="text-danger">extreme filtered gore</span> or <span class="text-danger">flayed/missing skin, nail trauma, or eye trauma</span>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-danger"></i></span>
+                        <span class="text-danger">Change their skin tone, body type, or gender </span>
+                        <br>
+                        <span style="font-size:smaller;color:grey;">(Don't stress about being exact, just keep the general looks in mind)</span>
+                    </li>
+                </ul>
+                <!-- / NO DESIGN / STYLE CONTENT END -->
+            </div>
+        </div>
+        <!-- / NO BOX END -->
+    </div>
+</div>
+<!-- CODE END -->
+
+<div id="user_PERMISSIONS" class="container">
+    <div id="user_PERMISSIONS_BOXES" class="row d-flex justify-content-center no-gutters my-1">
+        <!-- YES BOX -->
+        <div id="user_YESBOX" class="col-md-4 m-1">
+            <div id="user_YESBOX_HEADER" class="p-2 rounded-top bg-secondary text-center text-uppercase font-weight-bold"
+                style="font-size:1.2rem;letter-spacing:0.1rem;">
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2 bg-secondary"></div>
+                    <!-- YES HEADER -->
+                    <div class="mx-3 text-white">
+                        <i class="fa-regular fa-circle-bookmark"></i> Other Notes <i class="fa-regular fa-circle-bookmark"></i>
+                    </div>
+                    <!-- / YES HEADER END -->
+                    <div class="flex-grow-1 card my-auto mr-2 bg-secondary"></div>
+                </div>
+            </div>
+            <div id="user_YESBOXCONTENT" class="p-3 rounded-bottom border border-secondary">
+                <!-- YES DESIGN / STYLE -->
+                <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-secondary"></i></span>
+                        These rules are subject to change between events, but I try not to do so during July
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-secondary"></i></span>
+                        If a specific character's permissions is contradictory to this, go with what it says for each character!
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-secondary"></i></span>
+                        Some characters have extra things in their permissions section that I'd love if you drew but don't feel any pressure to do so! Those are mainly just for ideas :]
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-secondary"></i></span>
+                        Just don't go too wild! Don't be afraid to ask questions!
+                    </li>
+                </ul>
+                <!-- / YES DESIGN / STYLE END-->
+            </div>
+        </div>
+        <!-- / YES BOX END -->
+        
+        <!-- MAYBE BOX -->
+        <div id="user_YESBOX" class="col-md m-1">
+            <div id="user_YESBOX_HEADER" class="p-2 rounded-top bg-primary text-center text-uppercase font-weight-bold"
+                style="font-size:1.2rem;letter-spacing:0.1rem;">
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2 bg-primary"></div>
+                    <!-- YES HEADER -->
+                    <div class="mx-3 text-white">
+                        <i class="fa-regular fa-circle-chevron-down"></i> Character tag guide <i class="fa-regular fa-circle-chevron-down"></i>
+                    </div>
+                    <!-- / YES HEADER END -->
+                    <div class="flex-grow-1 card my-auto mr-2 bg-primary"></div>
+                </div>
+            </div>
+            <div id="user_YESBOXCONTENT" class="p-3 rounded-bottom border border-primary">
+                <!-- YES DESIGN / STYLE -->
+                <div id="user_tag_categories" class="row p-1 d-flex justify-content-center">
+
+                <div id="user_tag_worlds" class="col-md-5">
+                    <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Standalone Ocs</div>
+                    <div id="user_tag">
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=sona" target="_blank" rel="noreferrer noopener">Sona</a> Personas of varying types/verses
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=dystopian" target="_blank" rel="noreferrer noopener">Dystopian</a> A story group of 3
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=non+fandom" target="_blank" rel="noreferrer noopener">Non Fandom</a> Various other ocs
+                        <div class="mt-1" style="font-size:smaller;"><span class="text-secondary">This last group tends to have elements from whatever fandom they started in but are otherwise standalone</span></div>
+                    </div>
+                </div>
+
+                <div id="user_tag_character_type" class="col">
+                    <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Fandom (Multiple)</div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=fallen+london" target="_blank" rel="noreferrer noopener">Fallen London</a> 
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=minecraft" target="_blank" rel="noreferrer noopener">Minecraft</a>
+                    </div>
+                    
+                    <div class="text-secondary text-uppercase mb-1 mt-3 font-weight-bold" style="font-size:0.9rem;">Fandom (Single)</div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=deltarune" target="_blank" rel="noreferrer noopener">Deltarune</a>
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=pokemon" target="_blank" rel="noreferrer noopener">Pokemon</a>
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=wynncraft" target="_blank" rel="noreferrer noopener">Wynncraft</a>
+                    </div>
+                </div>
+
+                <div class="col">
+                    <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Design</div>
+
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=human" target="_blank" rel="noreferrer noopener">Human</a>
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=furry" target="_blank" rel="noreferrer noopener">Furry</a>
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=monster" target="_blank" rel="noreferrer noopener">Monster</a>
+                        <span class="text-secondary" style="font-size:smaller;">*Humanoids</span>
+                    </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=robot" target="_blank" rel="noreferrer noopener">Robot</a>
+                    </div>
+                </div>
+
+            </div>
+                <!-- / YES DESIGN / STYLE END-->
+            </div>
+        </div>
+        <!-- / MAYBE BOX END -->
+    </div>
+    
+    <div class="small col-lg-12">
+    <div class="text-right" style="letter-spacing:0.3em;">
+        <a href="https://toyhou.se/39945507.af-global-permissions-boxes" class="text-muted">
+            <i class="far fa-code"></i>
+        </a>
+    </div>
+ </div>
+    
+</div>
+<!-- CODE END -->
