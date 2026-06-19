@@ -92,8 +92,6 @@
             </div>
             <div id="user_NOBOXCONTENT" class="p-3 rounded-bottom border border-danger">
                 <!-- NO DESIGN / STYlE CONTENT -->
-                <div class="text-uppercase mb-1 font-weight-bold"
-                    style="font-size:0.9rem;letter-spacing:0.1rem;color:grey;">Design / Style</div>
                 <ul class="fa-ul mb-1">
                     <li>
                         <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right text-danger"></i></span>
