@@ -1,0 +1,113 @@
+<!--
+rgba(230, 143, 25,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(230, 143, 25,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(230, 143, 25,0.75);">
+			<i class="fas fa-books"></i> <strong> Alexander Hawthorne </strong> <i class="fas fa-flip-horizontal fa-books"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(230, 143, 25,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(230, 143, 25,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Human
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> He/him
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(230, 143, 25,0.25);">
+				<i class="far fa-calendar pr-1"></i> 30
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 172cm / 5'8"
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(230, 143, 25,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Bookkeep
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Group rp oc
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(230, 143, 25,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/33722651.alexander-hawthorne">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+		    <p class="ml-3 mt-1">Alexander Hawthorne, bookkeep in a secluded village in 1825. Totally normal and coping with the town going through a murder mystery.</p>
+		    
+			<ul class="mt-2">
+				<li>Runs a bookstore</li>
+				<li>Has various cats</li>
+				<li>Happy to sit for tea or just stop to chat with anyone</li>
+				<li>Gay as hell but yknow quiet about it bcus its the 1820s</li>
+			</ul>
+			<ul class="mt-2">
+				<li>Often caught stargazing</li>
+				<li>Comes off as put together but is actually paranoid as hell</li>
+				<li>Has a pocket knife and gun on him most of the time</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/EWKIxGSiY9ou0GlekYNqz6AQBmt0wGpHj6Cmkvdz8zgzQfpdXE5kjrq4j7xN.png");background-size:200%;background-position:2% 0%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container card mt-4" style="border-color:rgba(230, 143, 25,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(230, 143, 25,0.75);">
+			<i class="fas fa-sparkles" style="color:rgba(230, 143, 25,0);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://images.artfight.net/character/dOuXgmPO4DmLMeZv6zqFpDmwzwR9RuD0da6anfYijE52MaSgKHqt2hDFoZaj.png?t=1749857539");background-size:120%;background-position:10% 30%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(230, 143, 25,0.5);">
+				Drawing ideas
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>tba</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(230, 143, 25,0.5);">
+				Friends and Co
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>Friends with <a href="https://artfight.net/character/5845160.g-jules-kingsley">Jules Kingsley</a></li>
+					<li>Acquaintances with </li><ul>
+					    <li><a href="https://artfight.net/character/6132482.dr-harvey-whittaker">Dr Harvey Whittaker</a></li>
+					    <li><a href="https://artfight.net/character/6621313.morgan-w-armitage">Morgan Armitage</a></li>
+					    <li><a href="https://artfight.net/character/5934859.fr-yarrow-kingsley">Fr Yarrow Kingsley †</a></li>
+					    </ul>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
