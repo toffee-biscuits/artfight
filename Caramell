@@ -1,0 +1,124 @@
+<!-- warning -->
+<div class="card mx-auto my-4 rounded-0 bg-warning" style="border-width:0px;padding:1px;max-width:400px;">
+<div class="card rounded-0" style="border-width:0px;padding:2px;">
+<div class="card rounded-0 bg-light m-0" style="border-width:0px;">
+<div class="row m-0" style="min-height:50px;">
+    <div class="col p-0 d-flex justify-content-center" style="max-width:50px;font-size:80%">
+        <i class="fa-light text-warning fa-2x fa-message-exclamation align-self-center"></i>
+    </div>
+    <div class="col py-2 px-1 d-flex text-reset" style="font-weight:400;">
+        <span class="align-self-center">
+            <b style="font-weight:700;">Body horror filter:</b> Extra eyes in sparse clusters
+        </span>
+    </div>
+</div>
+</div>
+</div>
+</div>
+<!-- -->
+
+<!--
+rgba(125, 13, 181,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(125, 13, 181,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(125, 13, 181,0.75);">
+			<i class="fas fa-sparkles"></i> <strong> Caramel </strong> <i class="fas fa-flip-horizontal fa-sparkles"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(125, 13, 181,0.75); max-height:375px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(125, 13, 181,0.25)">
+				<i class="far fa-font-case pr-1"></i> Caramel / Mellie / ᓵ⚍∷╎𝙹ᓭ╎ℸ||
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-dna pr-1"></i> Enderman/Watchling
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(125, 13, 181,0.25);">
+				<i class="far fa-venus-mars pr-1"></i> They/Any 
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-calendar pr-1"></i> Late teens / Young adult
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(125, 13, 181,0.25);">
+				<i class="far fa-ruler pr-1"></i> 250cm / 8'2" / 2.5 blocks
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-briefcase pr-1"></i> Traveller
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(125, 13, 181,0.25);">
+				<i class="far fa-book-open pr-1"></i> Minecraft OC
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/10105183.caramel">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+			<p class="ml-3 mt-1">Mellie is an Enderman from the Far End, currently living in the overworld. They've lived on this server with this group for over a year now, though they did tend to miss things because they had to go back to the End fairly often. This time, they've actually -- y'know -- gotten permission from family to leave for extended periods, so they're planning on being more present..</p>
+			<p class="ml-3 mt-1">Speaking of family, <a href="https://artfight.net/character/2252892.joy">Joy</a> is (essentially) their older sister. They're fairly neutral about her as the good moments get counterbalanced by how overbearing and stuck up she is.</p>
+			<p class="ml-3 mt-1">They're a kind and easily trusting individual, going along with their friends' shenanigans with not much drive to lead themself. They can be a bit oblivious and do suffer from anxiety at times but they try their best.</p>
+			<p class="ml-3 mt-1">They don't share many specifics of their family or home in the End, usually saying something about whether or not they'd be allowed to talk about it. The other members of their family are quite secretive with their information and traditions, even to the point of being possessive or territorial. They also wouldn't admit it, but they worry about scaring others (see: oh boy that's a lot of eyes)</p>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/HTEVqwTa6h3NGBtaPWeOwl1tkh8RYdNXx6c5T6QdFrpmmaElh8o36kQm1ZPc.png?t=1718584358");background-position:100% 10%;background-size:180%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container card mt-4" style="border-color:rgba(125, 13, 181,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(125, 13, 181,0.75);">
+			<i class="fas fa-dot" style="color:rgba(125, 13, 181);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://images.artfight.net/character/DcYQwP2f1jrAbGY7bn6ZSkJkYtQExDhQ90GMUcVEXofRQEtxUBwC4MV1vtOf.png?t=1749855263");background-size:90%;background-position:center;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(125, 13, 181,0.5);">
+				Design Notes
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>Mellie keeps their extra eyes (ie, all but the "standard" pair) closed and hidden; so far they've only shown them once- in a fight as a threat display. Because of how their skin looks, their eyes just look like small lines when closed, essentially hidden to the naked eye or passable as scars.</li>
+					<li>This is the same with their mouth! They keep it closed most of the time they're not talking. When they do open it, its the same sort of glowey purple as their eyes.</li>
+					<li>They have stripes going down their body like wood grain, though it also isn't that noticeable given the nature of their skin.</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(125, 13, 181,0.5);">
+				Lore/Headcannon
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li><a href="https://minecraft.wiki/w/Dungeons:Watchling">Watchlings</a> are a mob from Minecraft Dungeons DLC</li>
+					<li>The "far end" is meant to be the end from said DLC. It's well past where most adventurers would be willing to go, following the ring-like spread of the islands of the main game.</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
