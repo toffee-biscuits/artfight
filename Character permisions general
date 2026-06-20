@@ -132,7 +132,7 @@
                     <div class="flex-grow-1 card my-auto ml-2 bg-secondary"></div>
                     <!-- YES HEADER -->
                     <div class="mx-3 text-white">
-                        <i class="fa-regular fa-circle-bookmark"></i> Other Notes <i class="fa-regular fa-circle-bookmark"></i>
+                        <i class="fa-regular fa-circle-plus"></i> Other Notes <i class="fa-regular fa-circle-plus"></i>
                     </div>
                     <!-- / YES HEADER END -->
                     <div class="flex-grow-1 card my-auto mr-2 bg-secondary"></div>
@@ -171,7 +171,7 @@
                     <div class="flex-grow-1 card my-auto ml-2 bg-primary"></div>
                     <!-- YES HEADER -->
                     <div class="mx-3 text-white">
-                        <i class="fa-regular fa-circle-chevron-down"></i> Character tag guide <i class="fa-regular fa-circle-chevron-down"></i>
+                        <i class="fa-regular fa-circle-bookmark"></i> Character tag guide <i class="fa-regular fa-circle-bookmark"></i>
                     </div>
                     <!-- / YES HEADER END -->
                     <div class="flex-grow-1 card my-auto mr-2 bg-primary"></div>
