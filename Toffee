@@ -68,7 +68,7 @@ rgba(76, 151, 154,0.75)
 <div class="container card mt-4" style="border-color:rgba(76, 151, 154,0.75)">
 	<div class="row">
 		<div class="col text-center p-3 h4" style="background-color:rgba(76, 151, 154,0.75);">
-			<i class="fas fa-sparkles" style="color:rgba(76, 151, 154,0);"></i> 
+			<i class="fas fa-dot" style="color:rgba(76, 151, 154);"></i> 
 		</div>
 	</div>
 	<div class="row">
