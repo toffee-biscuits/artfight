@@ -1,0 +1,48 @@
+<div id="user_PERMISSIONS" class="container">
+    <div id="user_PERMISSIONS_BOXES" class="row d-flex justify-content-center no-gutters my-1">
+        <!-- BOX -->
+        <div id="user_YESBOX" class="col-md m-1">
+            <div id="user_YESBOX_HEADER" class="p-1 rounded bg-success text-justify-left"
+                style="font-size:0.9rem">
+                
+                <div class="mx-2 text-white">
+                    <i class="far fa-circle-check"></i> Feel free to draw him in sizes or outfits not shown, these are just examples :D
+                </div>
+                
+            </div>
+        </div>
+        <!-- / BOX END -->
+        
+        <!-- BOX -->
+        <div id="user_YESBOX" class="col-md m-1">
+            <div id="user_YESBOX_HEADER" class="p-1 rounded bg-danger text-justify-left"
+                style="font-size:0.9rem">
+                
+                <div class="mx-2 text-white">
+                    <i class="far fa-circle-x"></i> Don't draw him with a mouth unless actually necessary (eating/talking/etc)
+                </div>
+                
+            </div>
+        </div>
+        <!-- / BOX END -->
+    </div>
+</div>
+<!-- CODE END -->
+
+<div id="user_PERMISSIONS" class="container">
+    <div id="user_PERMISSIONS_BOXES" class="row d-flex justify-content-center no-gutters my-1">
+        <!-- BOX -->
+        <div id="user_YESBOX" class="col-md m-1">
+            <div id="user_YESBOX_HEADER" class="p-1 rounded bg-secondary text-justify-left"
+                style="font-size:0.9rem">
+                
+                <div class="mx-2 text-white">
+                    <i class="far fa-circle-plus"></i> The main ref is slightly out of date in that I've grown my hair out a lil but otherwise it's all the same (see img 3). Teensy ponytail :3c
+                </div>
+                
+            </div>
+        </div>
+        <!-- / BOX END -->
+    </div>
+</div>
+<!-- CODE END -->
