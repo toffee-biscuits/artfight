@@ -1,0 +1,168 @@
+<!--
+rgba(38, 102, 39,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(38, 102, 39,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(38, 102, 39,0.75);">
+			<i class="fas fa-hat-beach"></i> <strong> Cordelia & Theodore Pembroke </strong> <i class="fas fa-flip-horizontal fa-knife-kitchen"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(38, 102, 39,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(38, 102, 39,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Human
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> She / He
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(38, 102, 39,0.25);">
+				<i class="far fa-calendar pr-1"></i> Mid-Late 20s
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 168cm / 5'6"
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(38, 102, 39,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Tailor / Monster Hunter
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Fallen London OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(38, 102, 39,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/23329388.mr-mrs-pembroke">Toyhouse</a> - <a href="https://the-clay-quarters.tumblr.com/tagged/oc%3A%20cordelia%2Ftheodore%20pembroke">Tumblr</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+			<p class="ml-3 mt-1">A married pair hailing from the surface, Cordelia and Theodore have made themselves at home in the Neath. </p>
+			<p class="ml-3">While they do speak ever so fondly of each other, you'd be hard pressed to see them together. They frequent very different areas with very different types of people, often expressing a friendly distaste in the other's choice in company.</p>
+			<p class="ml-3">Cordelia is an upstanding lady, often found at a variety of high society revels and art galleries. Although, on paper, her profession is that of a tailor, you'll more likely know her from planning and organizing many events like these.</p>
+			<p class="ml-3">Theodore is much more excitable and reckless than his counterpart, frequenting the docks and Watchmaker's hill. He's often seen challenging others or hunting strange creatures, just for the thrill of the chase. The rewards are a bonus.</p>
+			<p class="ml-3">It truly is a pity that the pair don't spend time together in public, they'd be such a striking couple. In fact, if you happen to find yourself in often company of both Mr and Mrs Pembroke, you'll find that they are quite physically similar, despite their other differences. Cordelia will sometimes mention that they've been mistaken for siblings or even the same person; what a simple misunderstanding, indeed... Unless?</p>
+			<hr class="ml-3">
+			<p class="ml-3">Theodore and Cordelia are, in reality, one and the same. These are simply facets of Pembroke as a whole - personas that let her explore very distinct aspects of society and herself. Part high society, part adrenaline junkie, just one genderfluid mess. Overall somewhat chaotic and a menace, not afraid to cause a scene to have some fun.</p>
+			
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/1kGPSDJ7PHTw8VPviTYgdjogIuRufyi9ShETAdJQDDN15zXZl09WOTgrJeZj.png");background-position:center;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container card mt-4" style="border-color:rgba(38, 102, 39,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(38, 102, 39,0.75);">
+			<i class="fas fa-dot" style="color:rgba(38, 102, 39);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://images.artfight.net/character/wmhgFIUoiZ9rxYsd5lQURrGNTIRzAoBmaiRoQ4sKq7xss2mOVzg69Ni070Rb.png");background-size:130%;background-position:50% 40%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(38, 102, 39,0.5);">
+				Design notes
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>Both sides wear deep green but Cordelia's dresses are much more elaborate than Theodore's work clothes</li>
+					<li>Any jewellery she wears is gold, including a plain wedding band (How to make people think you're married 101)</li>
+					<li>As Theodore, he simply ties his hair and/or tucks it in his hat</li>
+					<li>His scars (<i class="far fa-arrow-left"></i>) don't have to be followed particularly closely, they don't have any important placements or significance other than I Like Drawing Them TM</li>
+					<li>Has a lot of options for clothes! See image 4 for inspo -- if you'd like to find smth else, I tend to stick to 1850-1910 ish. The main dress I draw her in is based on <a href="https://www.osfcostumerentals.org/ItemDetail/09005680/women-s-bodices-1890-b34-black-silk-beaded-sleeveless-boddice-with-gold-beaded-shoulder-zippered-underflap-floral-sidewaist-good-condition">this real one</a>, though I usually omit the embroidery bcus it's hard to draw lol</li>
+					    <ul>
+					        <li>Cordelia wears elaborate dresses with slim silhouettes (minimal/no petticoats), long sleeves, high collars, wide brim hats</li>
+					        <li>Theodore wears nice waistcoats but is otherwise fairly plain, more focus on practicality and movement, often rolls up shirt sleeves, bowler hats</li>
+					    </ul>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(38, 102, 39,0.5);">
+				okay but what does that that mean
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>In modern terms, Pembroke is one person who is genderfluid with a very situational view on gender and uses she/he but not they</li>
+					<li>When talking about her as an individual, I tend to just pick/alternate between her pronouns, usually defaulting to she as I have another oc in her circle that uses he</li>
+					<li>Acceptable names and nicknames include: Cordelia (Delia, Delilah), Theodore (Theo), Pembroke (Pem, Broke/Brooke)</li>
+				</ul>
+			</div>
+			
+			<div class="col p-2 rounded text-center" style="background-color:rgba(38, 102, 39,0.5);">
+				Friends (my other flondon characters)
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li><a href="https://artfight.net/character/2253575.flint-silverstein">Flint Silverstein</a> is one of her most trusted people, dependable and a good listener, and goes along with almost everything she does</li>
+					<li><a href="https://artfight.net/character/4310552.vincent-bell">Vincent Bell</a> is smarter than they may seem as they're let down my their constant worrying, she tries to make sure they have fun sometimes</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div class="container card mt-4" style="border-color:rgba(38, 102, 39,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(38, 102, 39,0.75);">
+			<i class="fas fa-dot" style="color:rgba(38, 102, 39);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(38, 102, 39,0.5);">
+				Traits
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li><b>Profession:</b> Tailor / Monster Hunter</li>
+					<li><b>Lodgings:</b> Rooms above <s>a bookstore</s> her tailor shop</li>
+					<li><b>Closest to:</b> Society / Docks</li>
+					<li><b>Ambition:</b> Bag a Legend</li>
+					<li><b>Main skills:</b> Persuasive, Dangerous</li>
+					<li><b>Main quirks:</b> Hedonist, Daring</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(38, 102, 39,0.5);">
+				 Drawing ideas 
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>I'd love to see her with other flondon characters! She's very social~</li>
+					<li>Drawing him with Silverstein and Vincent is also encouraged :3</li>
+					<li>Anything that comes to mind when you picture how a tailor socialite and/or monster hunter spends their time is a good basis of her day-to-day</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-lg-4 col-12 text-center p-0 pl-2">
+			<div style='background-image:url("https://images.artfight.net/character/qBuhiOsdDbwPfh9esJkNJlV5RhLbpcRV4vNXhB7Iwt7oHTabcRbWutv1YFru.png");background-size:100%;background-position:50% 40%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
