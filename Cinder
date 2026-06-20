@@ -1,0 +1,69 @@
+<!--
+rgba(171, 9, 9,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(171, 9, 9,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(171, 9, 9,0.75);">
+			<i class="fas fa-fire"></i> <strong> Cinder </strong> <i class="fas fa-flip-horizontal fa-fire"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(171, 9, 9,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(171, 9, 9,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Human
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> She/her
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(171, 9, 9,0.25);">
+				<i class="far fa-calendar pr-1"></i> Mid 20s
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 167cm / 5'6"
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(171, 9, 9,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Scavenger
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Original Story OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(171, 9, 9,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/10120096.cinder">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+		    <p class="ml-3 mt-1">Cinder is bold, impulsive, and has a strong distaste for authority.</p>
+		    <p class="ml-3">She is a lady with strong opinions and no patience for idiots; if she doesn’t like you, you’ll definitely know. On the other hand, if she does like you, be prepared for lots of bad jokes and casual insults. She’s very much a "no one can bully you but me" type, defending those close to her from whatever she can.</p>
+		    <p class="ml-3">She does a lot of things just because she thinks it's fun. From picking fights over petty squabbles, to scaling things that probably shouldn’t be scaled, Sally’s ended up with quite a few scars from her impulsive actions. If you jumped off a bridge, she’d be right behind you just for the thrill of it.</p>
+		    
+			<ul class="mt-2">
+				<li>Dating (???) <a href="https://artfight.net/character/1486316.aspect">Aspect</a>, eventually <a href="https://artfight.net/character/2252440.wyatt">Wyatt</a> too</li>
+				<li>They look like they're only putting up with each other, but in reality they just never really learnt how to express affection (especially in public)</li>
+				<li>She does genuinely adore Aspect though - he holds her back from being too reckless (and he also isn't actively trying to kill her which is, y'know, a bonus)</li>
+				<li>She likes to tease Wyatt, and often does get frustrated with their incessant worrying but at the end of the day, she's fiercely protective of them</li>
+			</ul>
+			<ul class="mt-2">
+				<li>The people where they live are very violent so she spends a lot of time just trying to keep her place in the world</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/4EKBgc6AKYRahAjduJqHzTdVQB0U57cSNCI0uuiEtKAAgT3ZD50MQdBZX2A5.png");background-position:55%;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
