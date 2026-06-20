@@ -1,0 +1,116 @@
+<!--
+rgba(27, 71, 117,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(27, 71, 117,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(27, 71, 117,0.75);">
+			<i class="fas fa-bug"></i> <strong> Vincent Bell </strong> <i class="fas fa-flip-horizontal fa-bug"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(27, 71, 117,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(27, 71, 117,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Human
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> They/them
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(27, 71, 117,0.25);">
+				<i class="far fa-calendar pr-1"></i> Early-Mid 20s
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 160cm / 5'3" 
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(27, 71, 117,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Student
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Fallen London OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(27, 71, 117,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/25406949.vincent-bell">Toyhouse</a> - <a href="https://the-clay-quarters.tumblr.com/tagged/oc:%20vincent%20bell">Tumblr</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+		    <p class="ml-3 mt-1">Vincent is a nervous sort, not particularly outspoken or self-confident. They're much more comfortable in an academic setting than around common folk, content to focus on research. Would you like to listen to them ramble about insects? They have been meaning to work through their latest paper, after all.</p>
+		    <p class="ml-3 mt-1">Hailing from the surface, Vincent came to the neath to study its entomological life as part of their university course. Their visit was meant to be temporary but after running into some trouble during field work, they're now forced to reconcile the newfound permanence of their stay. They're coping fine, don't worry about it. Just don't ask.</p>
+		    
+			<ul class="mt-2">
+				<li>guy who came to the neath for research and has not been having a good time since <3</li>
+				<li>High anxiety and a people pleaser, but eager to talk about their research with bugs or topics like language and surface politics</li>
+				<li>They're from Catalunya, Spain! Their full name is actually <i>Vícenç Creuer Libèl·lula</i>  but they don't use it much in London.</li>
+				<li>Short sighted with astigmatism. Does Not care that spectacles are 'unfashionable', have you seen how useless pince-nez are??</li>
+				    <ul>
+				        <li>Not that they care about fashion in general but that's beside the point.</li>
+				    </ul>
+				<li>The bugs they're working with/on often stow away in their pockets, or in their hair, or on their shoulders... Habitually found with various bugs hanging off them.</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/uBv9ifbOIMAw49bHJTXF9L1iGKIEDx8m9gXqoazz8hCtCC723NX9BfDAQc2Y.png");background-position:40%;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container card mt-4" style="border-color:rgba(27, 71, 117,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(27, 71, 117,0.75);">
+			<i class="fas fa-dot" style="color:rgba(27, 71, 117);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://f2.toyhou.se/file/f2-toyhou-se/images/84604292_f527ajqx2X0mA2V.png?1755364841");background-size:70%;background-position:center;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(27, 71, 117,0.5);">
+				Design Notes
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>Mid-brown skin! Short and chubby!</li>
+					<li>Y'know that thing in anime where a character's hair is so dark its blue? Yeah that's their hair.</li>
+					<li>They wear round, wireframe glasses and also have small blue stud earrings in each ear.</li>
+					<li>There's 3 main 'layers' to their outfit (Jacket, bags, shirt/trousers/tie), state of dress depends on the situation.</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(27, 71, 117,0.5);">
+				Traits
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li><b>Profession:</b> Scholar, Entomologist</li>
+					<li><b>Lodgings:</b> Near the University</li>
+					<li><b>Closest to:</b> TBD</li>
+					<li><b>Ambition:</b> Light Fingers</li>
+					<li><b>Main skills:</b> Watchful, Shadowy</li>
+					<li><b>Main quirks:</b> Melancholy, Magnanimous </li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
