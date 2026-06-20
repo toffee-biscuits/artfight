@@ -100,19 +100,19 @@
        <span class="text-muted font-weight-bold"> <i class="fas fa-users"></i> FRIENDS </span> <!--header-->
         <!--links - replace the # with a username!-->
         <div class="d-flex flex-wrap font-weight-bold ml-n1">
-        <a class="mx-1" href="/~#corvoidae" style="color:#e0434a"> corvoidae </a>
-        <a class="mx-1" href="/~#Cheru" style="color:grey"> Cheru </a>
-        <a class="mx-1" href="/~#crazypeep" style="color:#ff8040"> crazypeep </a>
-        <a class="mx-1" href="/~#Dawnpath" style="color:#ff8040"> Dawnpath </a>
-        <a class="mx-1" href="/~#ekhoecho" style="color:#e0434a"> ekhoecho </a>
-        <a class="mx-1" href="/~#FractalDot" style="color:grey"> FractalDot </a>
-        <a class="mx-1" href="/~#grayscalee" style="color:#e0434a"> grayscalee </a>
-        <a class="mx-1" href="/~#KingTheGhast" style="color:#3e8e8b"> KingTheGhast </a>
-        <a class="mx-1" href="/~#luxphobia" style="color:#3e8e8b"> luxphobia </a>
-        <a class="mx-1" href="/~#PacmanThePeach" style="color:grey"> PacmanPeach </a>
-        <a class="mx-1" href="/~#Selezic" style="color:#e0434a"> Selezic </a>
-        <a class="mx-1" href="/~#ShadeSwift99" style="color:#3e8e8b"> ShadeSwift99 </a>
-        <a class="mx-1" href="/~#sphorus" style="color:#ff8040"> sphorus </a>
+        <a class="mx-1" href="/~corvoidae" style="color:#e0434a"> corvoidae </a>
+        <a class="mx-1" href="/~Cheru" style="color:grey"> Cheru </a>
+        <a class="mx-1" href="/~crazypeep" style="color:#ff8040"> crazypeep </a>
+        <a class="mx-1" href="/~Dawnpath" style="color:#ff8040"> Dawnpath </a>
+        <a class="mx-1" href="/~ekhoecho" style="color:#e0434a"> ekhoecho </a>
+        <a class="mx-1" href="/~FractalDot" style="color:grey"> FractalDot </a>
+        <a class="mx-1" href="/~grayscalee" style="color:#e0434a"> grayscalee </a>
+        <a class="mx-1" href="/~KingTheGhast" style="color:#3e8e8b"> KingTheGhast </a>
+        <a class="mx-1" href="/~luxphobia" style="color:#3e8e8b"> luxphobia </a>
+        <a class="mx-1" href="/~PacmanThePeach" style="color:grey"> PacmanPeach </a>
+        <a class="mx-1" href="/~Selezic" style="color:#e0434a"> Selezic </a>
+        <a class="mx-1" href="/~ShadeSwift99" style="color:#3e8e8b"> ShadeSwift99 </a>
+        <a class="mx-1" href="/~sphorus" style="color:#ff8040"> sphorus </a>
        </div> <!--links end-->
       </div> <!--fri col end-->
       
