@@ -1,0 +1,73 @@
+<!--
+rgba(16, 181, 13,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(16, 181, 13,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(16, 181, 13,0.75);">
+			<i class="fas fa-flip-horizontal fa-bolt"></i> <strong> Wyatt </strong> <i class="fas fa-bolt"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(16, 181, 13,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(16, 181, 13,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Human
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> They/any (Amab nb)
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(16, 181, 13,0.25);">
+				<i class="far fa-calendar pr-1"></i> Mid 20s
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 165cm / 5'5" 
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(16, 181, 13,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Tech Scrapper
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Original Story OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(16, 181, 13,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/23046106.wyatt">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+			<ul class="mt-2">
+				<li>Very anxious guy, their most common face is basically 3:</li>
+			</ul>
+			<ul class="mt-2">
+				<li>Dating (???) <a href="https://artfight.net/character/1507212.cinder">Cinder</a> and <a href="https://artfight.net/character/1486316.aspect">Wyatt</a></li>
+				<li>They look like they're only putting up with each other, but in reality they just never really learnt how to express affection (especially in public)</li>
+				<li>Cinder can be quite mean to them but she has the drive needed to actually make decisions when they can't</li>
+				<li>Aspect is good at grounding them and helps a lot with their anxiety</li>
+			</ul>
+			<ul class="mt-2">
+				<li>Doesn't have the horns from the first image any more (redesign, not story)</li>
+				<li>The third image isn't the most accurate personality-wise, but it is for looks/physique</li>
+				<li>Their magic 90% of the time is Interface Control, with Lightning Manipulation only coming out when they're extremely pissed. It's rare but it does look cool af so you can draw it anyway lol</li>
+				<ul>
+				    <li>Short ramble about the magic system <a href="https://64.media.tumblr.com/97c9f80a80caeb28383fe4de46da70d8/30f27c1d9e3d4339-24/s1280x1920/6a36cff2159420da8150810bccf9d669ec3dde99.pnj">part 1</a> / <a href="https://64.media.tumblr.com/470a4c0a91d282005a8ab8607f48bde5/30f27c1d9e3d4339-fe/s1280x1920/67e0c1da4eaec473f7999f2add7d0f9bfc16d734.pnj">part 2</a></li>
+				</ul>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/Z7WOFqWuuvFF4gI02piAmxbTYNu9yKhbY7oYxDRLCtjzv9HLBcCJRHmUWTLC.png?t=1656131867");background-position:0% 0%;background-size:150%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
