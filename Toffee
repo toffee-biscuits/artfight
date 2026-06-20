@@ -1,53 +1,116 @@
-<div class="col-md-12 p-1">
-<div class="row no-gutters">
+<!--
+rgba(76, 151, 154,0.75)
+-->
 
-<div class="col-3 p-1">
-    <h1 style="color: rgb(44, 188, 222);"><b>Toffee</b></h1>
-    <p>Allay/Sprite | Variable height | He/They</p>
-    
-    <p>Sona<br>
-    <a href="https://toyhou.se/10105095.toffee">Toyhouse</a></p>
-    <hr>
-    
-    <img src="https://images.artfight.net/character/th_PbJvVXdBCEMTRpyQlIkH9Jq9DJSCF8AeJ7z1CYxvP584zVlZ4oyG1Zcp7Ypj.png"><br><br>
-    
-    <p>For posterity:</p>
-<ul>
-    <li>2021: <a href="https://images.artfight.net/character/Ss57CilWMz6tBHRYzA37GoBLlWfJZqOojC1UU7pgiA3i3mUhCqhMNllUdofR.png">prince shapeshifter v1</a></li>
-    <li>2022: <a href="https://images.artfight.net/character/kH6WiaWkQXszXtRuS6oM780gOZitoA1OUNM68rPA1LXkzezSNglqBF9QMryh.png">prince shapeshifter v2</a> +<a href="https://images.artfight.net/character/DuN797NWOd47g9DljowYo1wXLTgNhYttOiHvKu8l9pV1KnsIZQju68FU8tvR.png">mc skin</a></li><ul>
-        <li>(and <a href="https://images.artfight.net/character/4GZwCs334ha0I7Hv7RYUFlbkqgy6eX2nthTBUFYs0kAVAk9qxLVzdLpfrEct.png">team wither</a> version)</li></ul>
-    <li>2023: <a href="https://images.artfight.net/character/mFYEiASjn7J8J6DvDFdXMEU4fcfCwIj0TCRO5tbWCyeyOSqd4xIb1w2yGKxL.png">allay</a></li><ul>
-        <li>2024: <a href="https://images.artfight.net/character/c7SXZXqJpv3ifBJyjwhOQaFwzxgrFVS8JZTmymILWEQH9zARJA2N7ZBJOZd4.png">allay gets a tiny ponytail</a></li></ul>
-</ul>
-    
+<div class="container card" style="border-color:rgba(76, 151, 154,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(76, 151, 154,0.75);">
+			<i class="fas fa-sparkles"></i> <strong> Toffee </strong> <i class="fas fa-flip-horizontal fa-sparkles"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(76, 151, 154,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(76, 151, 154,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Allay/Sprite
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> He/They
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(76, 151, 154,0.25);">
+				<i class="far fa-calendar pr-1"></i> Adult
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> Variable Height
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(76, 151, 154,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Goofy lil guy
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Main Sona
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(76, 151, 154,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/10105095.toffee" target="_blank" rel="noreferrer noopener">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+			<ul class="mt-2">
+				<li>Not fully corporeal, will sometimes phase through solid objects</li>
+				<li>Can change size freely, biggest is child-sized</li>
+				<li>Never walks, is always flying/floating</li>
+				<li>Likes being held, carried, riding on others, etc! Will sit on your head or shoulder and you can't stop him</li>
+				<li>Flight is partially from the wings and partially just magic -- they usually just bob idly and only really flutter when he's trying to go faster</li>
+				<li>Prefers being smaller than whoever he's with, even if he could be bigger</li>
+			</ul>
+			<ul class="mt-2">
+				<li>Clothes: blues & greys, masc, shoeless. Often wears doll clothes</li>
+			</ul>
+			<ul class="mt-2">
+				<li>Does have a mouth and neck, just not drawn for Art Reasons tm</li>
+				<li>Has alternate colours that are more human-looking, if desired</li>
+				<li>The main ref is slightly out of date in that I've grown my hair out a lil but otherwise it's all the same (see img 3). Teensy ponytail :3c</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/FCr9rIuxLYRpoFDZqU7nWd6SuuxtSAkAvqg7ttkgrDjdsiwHl10vKDz1S8du.png");background-position:left;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
 </div>
 
-<div class="col-9 p-1">
-<hr>
 
-<ul>
-    <li>Not fully corporeal, will sometimes phase through solid objects</li>
-    <li>Can change size freely, biggest is child-sized</li>
-    <li>Never walks, is always flying/floating</li>
-</ul>
 
-<ul><li>Clothes: blues & greys, masc, shoeless. Often wears doll clothes</li></ul>
 
-<ul>
-    <li>Does have a face and neck, just not drawn for Art Reasons tm</li>
-    <li>Has alternate colours that are more human-looking, if desired</li>
-    <li>The main ref is slightly out of date in that I've grown my hair out a lil but otherwise it's all the same (see img 3). Teensy ponytail :3c</li>
-</ul>
+<div class="container card mt-4" style="border-color:rgba(76, 151, 154,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(76, 151, 154,0.75);">
+			<i class="fas fa-sparkles" style="color:rgba(76, 151, 154,0);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://images.artfight.net/character/mFYEiASjn7J8J6DvDFdXMEU4fcfCwIj0TCRO5tbWCyeyOSqd4xIb1w2yGKxL.png");background-size:150%;background-position:85% 53%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(76, 151, 154,0.5);">
+				Drawing ideas
+			</div>
+			<div class="col rounded">
 
-<b>Bonus:</b>
-<ul>
-    <li>Likes being held, carried, riding on others, etc! Will sit on your head or shoulder and you can't stop him</li>
-    <li>Flight is partially from the wings and partially just magic- they usually just bob idly and only really flutter when he's trying to go faster</li>
-    <li>Prefers being smaller than whoever he's with, even if he could be bigger</li>
-</ul>
+				<ul class="p-3">
+					<li>Hold him gently</li>
+					<li>Borrowers style shenanigans</li>
+					<li>Do dolls have any fun clothes these days</li>
+					<li>Technically a minecraft oc so go wild with that if you wanna</li>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(76, 151, 154,0.5);">
+				Previous Iterations
+			</div>
+			<div class="col rounded">
 
-<hr>
-</div> 
-
+				<ul class="p-3">
+					<li>2021: <a href="https://images.artfight.net/character/Ss57CilWMz6tBHRYzA37GoBLlWfJZqOojC1UU7pgiA3i3mUhCqhMNllUdofR.png">prince shapeshifter v1</a></li>
+					<li>2022: <a href="https://images.artfight.net/character/kH6WiaWkQXszXtRuS6oM780gOZitoA1OUNM68rPA1LXkzezSNglqBF9QMryh.png">prince shapeshifter v2</a> + <a href="https://images.artfight.net/character/DuN797NWOd47g9DljowYo1wXLTgNhYttOiHvKu8l9pV1KnsIZQju68FU8tvR.png">mc skin</a></li><ul>
+					    <li>(and <a href="https://images.artfight.net/character/4GZwCs334ha0I7Hv7RYUFlbkqgy6eX2nthTBUFYs0kAVAk9qxLVzdLpfrEct.png">team wither</a> version)</li>
+					    </ul>
+					<li>2023: <a href="https://images.artfight.net/character/mFYEiASjn7J8J6DvDFdXMEU4fcfCwIj0TCRO5tbWCyeyOSqd4xIb1w2yGKxL.png">allay</a></li><ul>
+					    <li>2024: <a href="https://images.artfight.net/character/c7SXZXqJpv3ifBJyjwhOQaFwzxgrFVS8JZTmymILWEQH9zARJA2N7ZBJOZd4.png">allay gets a tiny ponytail</a></li>
+					    </ul>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+    <div class="container mt-2" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile"><i class="fa-solid fa-code"></i> Code</a>
+	</div>
 </div>
 </div>
