@@ -109,8 +109,12 @@ rgba(76, 151, 154,0.75)
 		</div>
 	</div>
 </div>
-    <div class="container mt-2" style="font-size:smaller">
-	    <a href="https://toyhou.se/39969416.artfight-image-table-profile"><i class="fa-solid fa-code"></i> Code</a>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
 	</div>
+	
 </div>
 </div>
