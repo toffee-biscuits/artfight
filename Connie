@@ -1,0 +1,110 @@
+<!--
+rgba(133, 65, 65,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(133, 65, 65,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(133, 65, 65,0.75);">
+			<i class="fas fa-rabbit"></i> <strong> Connie </strong> <i class="fas fa-flip-horizontal fa-rabbit"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(133, 65, 65,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(133, 65, 65,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Leporidae 
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> He/They
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(133, 65, 65,0.25);">
+				<i class="far fa-calendar pr-1"></i> 20-25yrs
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i> 152cm/5' + ears
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(133, 65, 65,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Colony Captain
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Scifi OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(133, 65, 65,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/25572476.connie">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+		    <p class="ml-3 mt-1">Delta Captain Connie, or simply Connie, is part of the initial planetary colony crew aboard the Jaded. While his nervous disposition and lack of experience may not make him the ideal candidate for a leadership position, his proficiency with the mechanical equipment used on site makes up for it.</p>
+		    <p class="ml-3 mt-1">Feel free to contact him for any of your technical issues, from standard redstone to complex machinery -- but maybe not reactors, those are out of his ball park. On the other hand, he would love to simply spend time with the rest of the crew, if you have a spare moment or two. Not that he's lonely or anything, of course.</p>
+		    
+			<ul class="mt-2">
+				<li>Captain of a team working to colonize an alien planet</li>
+				<li>Lepidorae are basically space rabbit furries, I have a whole spiel about them on <a href="https://toyhou.se/25572476.connie">his toyhouse</a> if you'd like</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/fj9kk6e69Rm2EmPkWwySxE5xNoCGVyp68QsvShVH001scWdT0C4cVQIsJYjq.png?t=1717889818");background-position:left;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+
+
+<div class="container card mt-4" style="border-color:rgba(133, 65, 65,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(133, 65, 65,0.75);">
+			<i class="fas fa-dot" style="color:rgba(133, 65, 65);"></i> 
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-lg-4 col-12 text-center p-0 pr-2">
+			<div style='background-image:url("https://images.artfight.net/character/KeUi4Gn2D4GCKSYu3daKI9y3RuylAH7oUMT3qR7x8UIhYYVXCcTqgTPgFhjH.png");background-size:120%;background-position:10% 0%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 col-12 p-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(133, 65, 65,0.5);">
+				Design Notes
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>usually sticks to quite neutral faces as he isn't very expressive, other expressions are quite timid</li>
+					<li>their mouth is externally like a rabbit's, but when they open it it's more like a wolf's. they try not to show it off much</li>
+					    <ul>
+					        <li>this rabbit <i class="fas fa-rabbit ml-1"></i> is both prey and predator coded</li>
+					    </ul>
+				</ul>
+			</div>
+		</div>
+		<div class="col-md-6 col-lg-4 pr-0">
+			<div class="col p-2 rounded text-center" style="background-color:rgba(133, 65, 65,0.5);">
+				Context/Source
+			</div>
+			<div class="col rounded">
+
+				<ul class="p-3">
+					<li>technically a minecraft oc but the modpack is so very divorced from classic minecraft conceptually, since when is mc scifi smh</li>
+					    <ul>
+					        <li><a href="https://toyhou.se/~r?q=https%3A%2F%2Fblightfall.fandom.com%2Fwiki%2FBlightfall_Wikia">(Modpack: Blightfall)</a></li>
+					    </ul>
+					<li>the server I was playing this with finished not long after I made him so his story isn't particularly developed. I do want to come back to him someday tho, probably divorce him from mc in the process</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
