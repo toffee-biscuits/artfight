@@ -184,13 +184,13 @@
                 <div id="user_tag_worlds" class="col-md-5">
                     <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Standalone Ocs</div>
                     <div id="user_tag">
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=sona" target="_blank" rel="noreferrer noopener">Sona</a> Personas of varying types/verses
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=sona">Sona</a> Personas of varying types/verses
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=dystopian" target="_blank" rel="noreferrer noopener">Dystopian</a> A story group of 3
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=dystopian">Dystopian</a> A story group of 3
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=non+fandom" target="_blank" rel="noreferrer noopener">Non Fandom</a> Various other ocs
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=non+fandom">Non Fandom</a> Various other ocs
                         <div class="mt-1" style="font-size:smaller;"><span class="text-secondary">This last group tends to have elements from whatever fandom they started in but are otherwise standalone</span></div>
                     </div>
                 </div>
@@ -198,21 +198,21 @@
                 <div id="user_tag_character_type" class="col">
                     <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Fandom (Multiple)</div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=fallen+london" target="_blank" rel="noreferrer noopener">Fallen London</a> 
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=fallen+london">Fallen London</a> 
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=minecraft" target="_blank" rel="noreferrer noopener">Minecraft</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=minecraft">Minecraft</a>
                     </div>
                     
                     <div class="text-secondary text-uppercase mb-1 mt-3 font-weight-bold" style="font-size:0.9rem;">Fandom (Single)</div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=deltarune" target="_blank" rel="noreferrer noopener">Deltarune</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=deltarune">Deltarune</a>
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=pokemon" target="_blank" rel="noreferrer noopener">Pokemon</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=pokemon">Pokemon</a>
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=wynncraft" target="_blank" rel="noreferrer noopener">Wynncraft</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=wynncraft">Wynncraft</a>
                     </div>
                 </div>
 
@@ -220,17 +220,22 @@
                     <div class="text-secondary text-uppercase mb-1 font-weight-bold" style="font-size:0.9rem;">Design</div>
 
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=human" target="_blank" rel="noreferrer noopener">Human</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=human">Human</a>
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=furry" target="_blank" rel="noreferrer noopener">Furry</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=furry">Furry</a>
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=monster" target="_blank" rel="noreferrer noopener">Monster</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=monster">Monster</a>
                         <span class="text-secondary" style="font-size:smaller;">*Humanoids</span>
                     </div>
                     <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=robot" target="_blank" rel="noreferrer noopener">Robot</a>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=robot">Robot</a>
+                    </div>
+                    <br>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=few+attacks">Few Attacks</a>
+                        <span class="text-secondary" style="font-size:smaller;">OCs that have only received 0-2 attacks</span>
                     </div>
                 </div>
 
