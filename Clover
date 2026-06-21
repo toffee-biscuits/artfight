@@ -1,0 +1,66 @@
+<!--
+rgba(227, 166, 218,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(227, 166, 218,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(227, 166, 218,0.75);">
+			<i class="fas fa-flower" style="transform:rotate(-20deg)"></i> <strong> Clover </strong> <i class="fas fa-flower" style="transform:rotate(20deg)"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(227, 166, 218,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(227, 166, 218,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Rabbit
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> They/It/she
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(227, 166, 218,0.25);">
+				<i class="far fa-calendar pr-1"></i> Adult
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-ruler pr-1"></i>  165cm / 5'5" + ears 
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(227, 166, 218,0.25);">
+				<i class="far fa-briefcase pr-1"></i> ..?
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Group RP OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(227, 166, 218,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/31716882.clover">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    		    
+		    <p class="ml-3 mt-1">Clover is a curious sort. A sweet, bubbly bunny that's always available to help right where you need it. She doesn't talk about herself often, assuring that there really isn't much to say, that it's much more interesting to hear from others. They almost seem more suited to a big city world than such an off-road environment, but they certainly look excited. </p>
+		    <p class="ml-3">They are bubbly and polite, always eager to meet new people. Maybe a touch too eager, and they seem to know your name before you tell them. They're just excited, is all! They've heard so much about you! It's lively and playful, never running out of energy and easily excited. Always available right when and where you need it, just happening to be in the area. Never without something to talk about and keen to hear your opinions on every little thing.</p>
+		    
+			<ul class="mt-2">
+				<li>Can be a human/rabbit mix or an anthro furry</li>
+				<li>Always smiling</li>
+				<li>Has black spots everywhere, somewhat like an English Spot rabbit, most prominently on the shoulders/back/hips </li>
+			</ul>
+			<p class="ml-3">Technically a TMA oc and Spiral aligned/avatar but I haven't had the chance to do much with that yet. Feel free to lean into that if you'd like, queen of creepy smiles and looking deceptively normal.</p>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://images.artfight.net/character/Vwh721yMh7RpMy69nbMQCKassie1JHTJWxYtCIsi0hAgQ1mbKVnXApUyA27z.png?t=1750944233");background-position:center top;background-size:cover;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
