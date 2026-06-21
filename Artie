@@ -1,0 +1,70 @@
+<!--
+rgba(219, 151, 118,0.75)
+-->
+
+<div class="container card" style="border-color:rgba(219, 151, 118,0.75)">
+	<div class="row">
+		<div class="col text-center p-3 h4" style="background-color:rgba(219, 151, 118,0.75);">
+			<i class="fas fa-palette"></i> <strong> Artie </strong> <i class="fas fa-flip-horizontal fa-palette"></i>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-md-2 col-12 text-justify-left p-0 card" style="border-color:rgba(219, 151, 118,0.75); max-height:300px;">
+			<div class="col p-2 pl-4" style="background-color:rgba(219, 151, 118,0.25); max-height:40px;">
+				<i class="far fa-dna pr-1"></i> Darkner
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-cards-blank pr-1"></i> Art Program
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(219, 151, 118,0.25);">
+				<i class="far fa-location-dot pr-1"></i> Cybercity
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-venus-mars pr-1"></i> He/him
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(219, 151, 118,0.25);">
+				<i class="far fa-briefcase pr-1"></i> Graphic Designer
+			</div>
+			<div class="col p-2 pl-4">
+				<i class="far fa-book-open pr-1"></i> Deltarune OC
+			</div>
+			<div class="col p-2 pl-4" style="background-color:rgba(219, 151, 118,0.25);">
+				<i class="far fa-house-chimney-heart pr-1"></i> <a href="https://toyhou.se/10105095.toffee">Toyhouse</a>
+			</div>
+			
+		</div>
+		
+
+		<div class="col-md-7 col-12 pl-0">
+		    
+			<ul class="mt-2">
+				<li>does graphic design work, as well as various other (2d) arts</li>
+			</ul>
+			<ul class="mt-2">
+				<li>sometimes drawn fluffy because I have simple tastes but I'm also indecisive pff</li>
+				<li>the pallet wheel never really goes away, at most gets put to the side</li>
+				<li>theres no specific pattern to his freckles, just a general colour distribution</li>
+			</ul>
+			<ul class="mt-2">
+				<li>i had i bit of a story with him post ch2 with spamton buuuuut im too embarrassed to talk about oc/canon publicly 👍</li>
+			</ul>
+			<ul class="mt-2">
+				<li>nicer words later someday maybe</li>
+			</ul>
+		</div>
+				
+		<div class="col-md-3 col-12 p-0" style="min-height:300px;">
+			<div style='background-image:url("https://f2.toyhou.se/file/f2-toyhou-se/images/69701459_VHSDnUjA5x085cT.png?1755369337");background-position:top right;background-size:230%;min-height:100%;background-repeat:no-repeat;'>
+			</div>
+		</div>
+	</div>
+</div>
+
+    <div class="container mt-2 text-right" style="font-size:smaller">
+	    <a href="https://toyhou.se/39969416.artfight-image-table-profile" class="text-muted">
+	        <i class="far fa-code"></i>
+	    </a>
+	</div>
+	
+</div>
+</div>
