@@ -1,0 +1,782 @@
+<!--
+Accent colours (use crtl+f to replace):
+    main: grey
+    
+    #00659f - #f2859a - #eb6b4e - #992927
+    
+    #1fb9df - #767bbb - #e0de65 - #005c81
+    #b3d88a - #57bfe6 - #a9616d - #d5ddf0
+
+Pokemon type colours:
+    Bug: #a8b820 - Dark: #705848 - Dragon: #7038f8 - Electric: #f8d030 - Fairy: #ee99ac - Fighting: #c03028 
+    Fire: #f08030 - Flying: #a890f0 - Ghost: #705898 - Grass: #78c850 - Ground: #e0c068 - Ice: #98d8d8
+    Normal: #a8a878 - Poison: #a040a0 - Psychic: #f85888 - Rock: #b8a038 - Steel: #b8b8d0 - Water: #6890f0
+    ???: #68a090
+-->
+
+<!-- INTRO BOX -->
+<div class="container">
+    <div class="col-md mb-3">
+    <div class="card" style="border-color:grey">
+        <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:grey; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- INTRO HEADER -->
+            <div class="d-flex">
+                <div class="flex-grow-1 card my-auto ml-2" style="background-color:grey"></div>
+                
+                <div class="mx-3 text-white"> General Introduction</div>
+                
+                <div class="flex-grow-1 card my-auto mr-2" style="background-color:grey"></div>
+            </div>
+        </div> <!-- / INTRO HEADER END -->
+        <div class="p-3"> <!-- INTRO CONTENT -->
+            <p>These are <a href="https://artfight.net/character/9274319.charlie-xavier">Charlie's</a> pokemon team! As an ace trainer, he tends to rotate through different teams as the needs arise, sending the ones that grow tired to more permanent homes. He has a "core set" of pokemon that have been with him for years without fault, even as other teams have come and gone -- they've seen him at his best and worst, and know him better than any human does.</p>
+            
+            <ul class="fa-ul mb-1">
+                <li>
+                    <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
+                    These are based on my own team from ZA! The first four are more like ocs in their own right while the rest are just kinda there.
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
+                    This is a wip, I'll draw them all soon I swearrr
+                </li>
+                <li>
+                    <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
+                    The second pic is an old ref of Kai from before ZA came out/I made Charlie. It hasn't changed but ignore my self insert lol
+                </li>
+            </ul>
+            <!-- / INTRO CONTENT END -->
+        </div>
+    </div>
+    </div>
+</div> <!-- / INTRO BOX END -->
+
+
+<!-- BIG HEADER-->
+<div class="card mb-3" style="border-color:grey">
+<div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:grey; font-size:1.2rem;letter-spacing:0.1rem;">
+    <div class="d-flex">
+        <div class="flex-grow-1 card my-auto ml-2" style="background-color:grey"></div>
+        <!-- INTRO BOX HEADER -->
+            <div class="mx-3 text-white"> Core Team </div>
+        <!-- / INTRO BOX HEADER END -->
+        <div class="flex-grow-1 card my-auto mr-2" style="background-color:grey"></div>
+    </div>
+</div> <!-- / BIG HEADER END-->
+
+<div class="p-1 "> <!-- BIG BOX -->
+    <div class="row d-flex justify-content-center no-gutters">
+        
+        <!-- OC 1 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#00659f">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#00659f; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#00659f"></div>
+                    
+                    <div class="mx-3 text-white"> Bluebell </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#00659f"></div>
+                </div>
+            </div> <!-- / OC 1 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 1 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/ydQh7fZx/670Floette-Blue-Flower-WF.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Floette</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #ee99ac"><i class="fas fa-sparkles"></i> Fairy</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">She/her</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
+                        <div class="col-7 pl-2">Primary Partner</div>
+                    </div> <!-- / BASIC INFO END-->
+                
+                </div>
+                
+                <div class="flex-fill my-3" style="border-top: 1px solid; border-color:#00659f"></div> <!--divider-->
+                
+                <!-- LONG INFO -->
+                <div class="overflow-auto pr-2 mr-n2 ml-n3" style="max-height: 200px; min-height: 200px"> <!-- scrollbox, remove max-height for an expanding box -->
+                    
+                    <!-- This section has negative left margins to make the bullet points not be so indented
+                    Any non-bullet text or dividers in the scrollbox look best with left margins, ie example divider:
+                    <div class="flex-fill my-3 ml-3" style="border-top: 1px solid; border-color:#00659f"></div> -->
+                    
+                    <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#00659f"></i></span> <!-- You can replace fa-caret-right for custom bullet points -->
+                        One of the first pokemon Charlie caught when he started his pokemon journey. When he quit being champion and gave his team away to better homes, she insisted on staying with him. She's his best friend and tries to make sure he takes care of himself
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#00659f"></i></span>
+                        He's offered to evolve her on several occasions but she simply prefers being a floette. She likes being able to surprise people with how strong she is
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#00659f"></i></span>
+                        She understands Charlie's need to not be obvious with how experienced they are and is good at regulating her strength. Even so, she'll get frustrated with him if he goes long enough without letting her go all out in battle
+                    </li>
+                </ul>
+                </div> <!-- / LONG INFO END-->
+                <!-- / OC 1 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 1 BOX END -->
+        
+        <!-- OC 2 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#f2859a">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#f2859a; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#f2859a"></div>
+                    
+                    <div class="mx-3 text-white"> Kai </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#f2859a"></div>
+                </div>
+            </div> <!-- / OC 2 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 2 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/gJSyGMZn/707Klefki-Dream.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Klefki</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #b8b8d0"><i class="fas fa-road-barrier"></i> Steel</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #ee99ac"><i class="fas fa-sparkles"></i> Fairy</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">It/its</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
+                        <div class="col-7 pl-2"> Support</div>
+                    </div> <!-- / BASIC INFO END-->
+                
+                </div>
+                
+                <div class="flex-fill my-3" style="border-top: 1px solid; border-color:#f2859a"></div> <!--divider-->
+                
+                <!-- LONG INFO -->
+                <div class="overflow-auto pr-2 mr-n2 ml-n3" style="max-height: 200px; min-height: 200px"> <!-- scrollbox, remove max-height for an expanding box -->
+                    
+                    <!-- This section has negative left margins to make the bullet points not be so indented
+                    Any non-bullet text or dividers in the scrollbox look best with left margins, ie example divider:
+                    <div class="flex-fill my-3 ml-3" style="border-top: 1px solid; border-color:#f2859a"></div> -->
+                    
+                    <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#f2859a"></i></span> <!-- You can replace fa-caret-right for custom bullet points -->
+                        A gift from his mum when he was young, it takes care of his keys and other little things.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#f2859a"></i></span>
+                        Has been a non combatant for years but has recently decided to join in the battling
+                    </li>
+                </ul>
+                </div> <!-- / LONG INFO END-->
+                <!-- / OC 2 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 2 BOX END -->
+        
+        <!-- OC 3 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#eb6b4e">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#eb6b4e; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#eb6b4e"></div>
+                    
+                    <div class="mx-3 text-white"> Riker </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#eb6b4e"></div>
+                </div>
+            </div> <!-- / OC 3 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 3 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/C1PCwvqB/800px-0479Rotom-Phone-SV.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Rotom (Phone)</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #f8d030"><i class="fas fa-bolt"></i> Elect.</span>
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #b8b8d0"><i class="fas fa-road-barrier"></i> Steel</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">She/It</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
+                        <div class="col-7 pl-2">Non combatant</div>
+                    </div> <!-- / BASIC INFO END-->
+                
+                </div>
+                
+                <div class="flex-fill my-3" style="border-top: 1px solid; border-color:#eb6b4e"></div> <!--divider-->
+                
+                <!-- LONG INFO -->
+                <div class="overflow-auto pr-2 mr-n2 ml-n3" style="max-height: 200px; min-height: 200px"> <!-- scrollbox, remove max-height for an expanding box -->
+                    
+                    <!-- This section has negative left margins to make the bullet points not be so indented
+                    Any non-bullet text or dividers in the scrollbox look best with left margins, ie example divider:
+                    <div class="flex-fill my-3 ml-3" style="border-top: 1px solid; border-color:#eb6b4e"></div> -->
+                    
+                    <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#eb6b4e"></i></span> <!-- You can replace fa-caret-right for custom bullet points -->
+                        Charlie's state-of-the-art rotom phone! Yes, she counts!
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#eb6b4e"></i></span>
+                        An absolute menace to society. Riker has the responsibility to hold Charlie's items and that is the only thing she treats seriously
+                        <ul class="fa-ul mb-1">
+                            <li>
+                            <span class="fa-li"><i class="fas fa-caret-right" style="color:#eb6b4e"></i></span>
+                            Matter storage inside rotom phones is a relatively new, very expensive, invention that Charlie makes heavy use of. This upgrade means that Riker can't leave the phone, but she doesn't mind -- her ghost form is a small price to pay for unlimited internet access.
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#eb6b4e"></i></span> 
+                        Picked her name and pronouns herself! She'll also sometimes buy herself new cases and make Charlie put them on her
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#eb6b4e"></i></span> 
+                        Can provide very basic translations for pokemon to humans -- the problem is that she can only communicate in pictograms/emojis or by looking up relevant articles. Her and Charlie have figured out a system for things like names and emotions but there's a lot that she still finds hard to explain
+                    </li>
+                </ul>
+                </div> <!-- / LONG INFO END-->
+                <!-- / OC 3 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 3 BOX END -->
+        
+        <!-- OC 4 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#992927">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#992927; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#992927"></div>
+                    
+                    <div class="mx-3 text-white"> Élodie </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#992927"></div>
+                </div>
+            </div> <!-- / OC 4 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 4 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/wM1XMhXx/0670Floette-Eternal.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Floette</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #ee99ac"><i class="fas fa-sparkles"></i> Fairy</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">She/her</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
+                        <div class="col-7 pl-2">Non combatant</div>
+                    </div> <!-- / BASIC INFO END-->
+                
+                </div>
+                
+                <div class="flex-fill my-3" style="border-top: 1px solid; border-color:#992927"></div> <!--divider-->
+                
+                <!-- LONG INFO -->
+                <div class="overflow-auto pr-2 mr-n2 ml-n3" style="max-height: 200px; min-height: 200px"> <!-- scrollbox, remove max-height for an expanding box -->
+                    
+                    <!-- This section has negative left margins to make the bullet points not be so indented
+                    Any non-bullet text or dividers in the scrollbox look best with left margins, ie example divider:
+                    <div class="flex-fill my-3 ml-3" style="border-top: 1px solid; border-color:#992927"></div> -->
+                    
+                    <ul class="fa-ul mb-1">
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#992927"></i></span> <!-- You can replace fa-caret-right for custom bullet points -->
+                        Az's floette, the little old lady herself.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#992927"></i></span>
+                        While technically one of Charlie's pokemon now, she does as she likes. Mostly that is staying around the hotel, tending to the plants in- and outside. After Charlie moves out of the hotel, she will sometimes spend her time at his place, too. He doesn't let her battle with him, concerned for her safety, and she seems content with that.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#992927"></i></span> 
+                        She and Blue get along very well and love to spend time together. Charlie's happy that they have each other and is thanking whatever higher power that floettes can't breed together.
+                    </li>
+                    <li>
+                        <span class="fa-li"><i class="fas fa-caret-right" style="color:#992927"></i></span> 
+                        Az usually just called her Floette but he did call her Élodie on occasion; he confided in Charlie that this was the name they had picked together for her in recent years. Charlie's just glad he doesn't have to figure out how to differentiate her and Blue on his own. He also calls her all sorts of nicknames, much to her delight -- Elle, Ellie, Deedee...
+                        <ul class="fa-ul mb-1">
+                            <li>
+                            <span class="fa-li"><i class="fas fa-caret-right" style="color:#992927"></i></span>
+                            OOC: Felt wrong to not let her have a name :( Élodie is a french name that can mean "foreign heritage" which seemed fitting, plus it's an E name for Eternal floette :)
+                            </li>
+                        </ul>
+                    </li>
+                </ul>
+                </div> <!-- / LONG INFO END-->
+                <!-- / OC 4 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 4 BOX END -->
+        
+    </div>
+</div>
+</div> <!-- / BIG BOX END-->
+
+<!-- BIG HEADER-->
+<div class="card mb-3" style="border-color:grey">
+<div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:grey; font-size:1.2rem;letter-spacing:0.1rem;">
+    <div class="d-flex">
+        <div class="flex-grow-1 card my-auto ml-2" style="background-color:grey"></div>
+        <!-- INTRO BOX HEADER -->
+            <div class="mx-3 text-white"> Pokemon on Rotation </div>
+        <!-- / INTRO BOX HEADER END -->
+        <div class="flex-grow-1 card my-auto mr-2" style="background-color:grey"></div>
+    </div>
+</div> <!-- / BIG HEADER END-->
+
+<div class="p-1 "> <!-- BIG BOX -->
+    <div class="row d-flex justify-content-center no-gutters">
+        
+        <!-- OC 1 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#1fb9df">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#1fb9df; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#1fb9df"></div>
+                    
+                    <div class="mx-3 text-white"> Tito </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#1fb9df"></div>
+                </div>
+            </div> <!-- / OC 1 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 1 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/0QWG9twJ/800px-160Feraligatr-Dream.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Feraligatr</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #6890f0"><i class="fas fa-droplet"></i> Water</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">He/him</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">7'07" / 2.3 m </div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 1 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 1 BOX END -->
+        
+        <!-- OC 2 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#767bbb">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#767bbb; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#767bbb"></div>
+                    
+                    <div class="mx-3 text-white"> Candle </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#767bbb"></div>
+                </div>
+            </div> <!-- / OC 2 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 2 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/7h53hg3Z/609Chandelure-Dream.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Chandelure</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-white" style="font-size: 14px; background: #705898"><i class="fas fa-ghost"></i> Ghost</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #f08030"><i class="fas fa-fire"></i> Fire</span>
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">3'03" / 1.0 m </div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 2 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 2 BOX END -->
+        
+        <!-- OC 3 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#e0de65">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#e0de65; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#e0de65"></div>
+                    
+                    <div class="mx-3 text-dark"> tbn </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#e0de65"></div>
+                </div>
+            </div> <!-- / OC 3 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 3 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/BbjTbxT6/800px-0071Victreebel.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Victreebel</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #78c850"><i class="fas fa-seedling"></i> Grass</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #a040a0"><i class="fas fa-icicles"></i> Poi.</span>
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">5'07" / 1.7 m</div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 3 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 3 BOX END -->
+        
+        <!-- OC 4 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#005c81">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#005c81; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#005c81"></div>
+                    
+                    <div class="mx-3 text-white"> tbn </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#005c81"></div>
+                </div>
+            </div> <!-- / OC 4 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 4 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/Qt4gj6TM/604Eelektross-Dream.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Eelektross</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #f8d030"><i class="fas fa-bolt"></i> Electric</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Length</div>
+                        <div class="col-7 pl-2">6'11" / 2.1 m </div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 4 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 4 BOX END -->
+        
+    </div>
+    <div class="row d-flex justify-content-center no-gutters">
+        
+        <!-- OC 1 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#b3d88a">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#b3d88a; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#b3d88a"></div>
+                    
+                    <div class="mx-3 text-dark"> TBN </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#b3d88a"></div>
+                </div>
+            </div> <!-- / OC 1 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 1 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/MTP0zsQK/282Gardevoir-XY-anime.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Gardevoir</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #f85888"><i class="fas fa-hurricane"></i> Psychic</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #ee99ac"><i class="fas fa-sparkles"></i> Fairy</span> 
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">5'03" / 1.6 m </div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 1 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 1 BOX END -->
+        
+        <!-- OC 2 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#57bfe6">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#57bfe6; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#57bfe6"></div>
+                    
+                    <div class="mx-3 text-white"> tbn </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#57bfe6"></div>
+                </div>
+            </div> <!-- / OC 2 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 2 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/bJC0q6tz/334Altaria-XY-anime.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Altaria</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-white" style="font-size: 14px; background: #7038f8"><i class="fas fa-dragon"></i> Dragon</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #a890f0"><i class="fas fa-feather"></i> Fly.</span>
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">3'07" / 1.1 m</div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 2 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 2 BOX END -->
+        
+        <!-- OC 3 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#a9616d">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#a9616d; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#a9616d"></div>
+                    
+                    <div class="mx-3 text-white"> tbn </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#a9616d"></div>
+                </div>
+            </div> <!-- / OC 3 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 3 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/XJHKn2Cj/553Krookodile-XY-anime.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Krookodile</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #e0c068"><i class="fas fa-hill-rockslide"></i> Grou.</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #705848"><i class="fas fa-eye"></i> Dark</span>
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
+                        <div class="col-7 pl-2">4'11" / 1.5 m</div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 3 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 3 BOX END -->
+        
+        <!-- OC 4 BOX -->
+        <div class="col-md m-1">
+            <div class="card" style="border-color:#d5ddf0">
+            <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#d5ddf0; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
+                <div class="d-flex">
+                    <div class="flex-grow-1 card my-auto ml-2" style="background-color:#d5ddf0"></div>
+                    
+                    <div class="mx-3 text-dark"> tbn </div>
+                    
+                    <div class="flex-grow-1 card my-auto mr-2" style="background-color:#d5ddf0"></div>
+                </div>
+            </div> <!-- / OC 4 HEADER END -->
+            
+            <div class="p-3"> <!-- OC 4 CONTENT -->
+                <div class="row no-gutters align-items-center mt-2">
+                    
+                    <!-- IMAGE -->
+                    <div class="col-4">
+                        <img style="width: 6.5rem; height: 6.5rem" src="https://i.postimg.cc/j5g6R87C/227Skarmory-OS-anime.png">
+                    </div>
+                    
+                    <!-- BASIC INFO -->
+                    <div class="row no-gutters align-items-center col-8">
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-dna"></i> Species</div>
+                        <div class="col-7 pl-2">Skarmory</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-arrows-spin"></i> Type</div>
+                        <div class="col-7 pl-2">
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #b8b8d0"><i class="fas fa-road-barrier"></i> Steel</span> 
+                            <span class="px-1 p-0 rounded text-dark" style="font-size: 14px; background: #a890f0"><i class="fas fa-feather"></i> Flying</span>
+                        </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
+                        <div class="col-7 pl-2">xx/xx</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Length</div>
+                        <div class="col-7 pl-2">5'07" / 1.7 m </div>
+                    </div> <!-- / BASIC INFO END-->
+                </div>
+                
+                <!-- / OC 4 CONTENT END-->
+            </div>
+            </div>
+        </div>
+        <!-- / OC 4 BOX END -->
+        
+    </div>
+</div>
+</div> <!-- / BIG BOX END-->
+ 
+<!-- CODE END -->
+
+<div class="small col-lg-12 mt-n2">
+    <div class="text-right mr-n2" style="letter-spacing:0.3em;">
+        <a href="https://archives.bulbagarden.net/wiki/Main_Page" class="text-muted" style="text-decoration:none">
+            <i class="far fa-image"></i>
+        </a>
+        <a href="https://artfight.net/~toffee_biscuits" class="text-muted" style="text-decoration:none">
+            <i class="far fa-code"></i>
+        </a>
+    </div>
+</div>
