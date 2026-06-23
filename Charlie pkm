@@ -33,11 +33,11 @@ Pokemon type colours:
             <ul class="fa-ul mb-1">
                 <li>
                     <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
-                    These are based on my own team from ZA! The first four are more like ocs in their own right while the rest are just kinda there.
+                    These are based on my own team from ZA! The first four are more like ocs in their own right while the rest aren't as developed
                 </li>
                 <li>
                     <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
-                    This is a wip, I'll draw them all soon I swearrr
+                    This is a wip, I'll draw all their customized designs soon I swearrr
                 </li>
                 <li>
                     <span class="fa-li"><i class="fa-sharp fa-solid fa-caret-right" style="color:grey"></i></span>
@@ -66,7 +66,7 @@ Pokemon type colours:
 <div class="p-1 "> <!-- BIG BOX -->
     <div class="row d-flex justify-content-center no-gutters">
         
-        <!-- OC 1 BOX -->
+        <!-- OC 1 BOX --> <!-- bluebell -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#00659f">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#00659f; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
@@ -102,6 +102,9 @@ Pokemon type colours:
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Bold, curious</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
                         <div class="col-7 pl-2">Primary Partner</div>
@@ -139,7 +142,7 @@ Pokemon type colours:
         </div>
         <!-- / OC 1 BOX END -->
         
-        <!-- OC 2 BOX -->
+        <!-- OC 2 BOX --> <!-- kai -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#f2859a">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#f2859a; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
@@ -177,6 +180,9 @@ Pokemon type colours:
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">0'08" / 0.2 m</div>
                 
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Timid, dedicated</div>
+                
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
                         <div class="col-7 pl-2"> Support</div>
                     </div> <!-- / BASIC INFO END-->
@@ -209,7 +215,7 @@ Pokemon type colours:
         </div>
         <!-- / OC 2 BOX END -->
         
-        <!-- OC 3 BOX -->
+        <!-- OC 3 BOX --> <!-- riker -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#eb6b4e">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#eb6b4e; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
@@ -246,6 +252,9 @@ Pokemon type colours:
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Sassy, playful</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
                         <div class="col-7 pl-2">Non combatant</div>
@@ -293,7 +302,7 @@ Pokemon type colours:
         </div>
         <!-- / OC 3 BOX END -->
         
-        <!-- OC 4 BOX -->
+        <!-- OC 4 BOX --> <!-- elodie -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#992927">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#992927; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
@@ -329,6 +338,9 @@ Pokemon type colours:
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">0'08" / 0.2 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Modest, mellow</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-briefcase"></i> Role</div>
                         <div class="col-7 pl-2">Non combatant</div>
@@ -395,7 +407,7 @@ Pokemon type colours:
 <div class="p-1 "> <!-- BIG BOX -->
     <div class="row d-flex justify-content-center no-gutters">
         
-        <!-- OC 1 BOX -->
+        <!-- OC 1 BOX --> <!-- tito -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#1fb9df">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#1fb9df; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
@@ -431,6 +443,9 @@ Pokemon type colours:
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">7'07" / 2.3 m </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Quiet, mischievous</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -440,7 +455,7 @@ Pokemon type colours:
         </div>
         <!-- / OC 1 BOX END -->
         
-        <!-- OC 2 BOX -->
+        <!-- OC 2 BOX --> <!-- candle -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#767bbb">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#767bbb; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
@@ -473,10 +488,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">He/him</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">3'03" / 1.0 m </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Reserved, irritable</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -486,14 +504,14 @@ Pokemon type colours:
         </div>
         <!-- / OC 2 BOX END -->
         
-        <!-- OC 3 BOX -->
+        <!-- OC 3 BOX --> <!-- bella -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#e0de65">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#e0de65; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#e0de65"></div>
                     
-                    <div class="mx-3 text-dark"> tbn </div>
+                    <div class="mx-3 text-dark"> Bella </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#e0de65"></div>
                 </div>
@@ -519,10 +537,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">She/her</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">5'07" / 1.7 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Serious, proud</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -532,14 +553,14 @@ Pokemon type colours:
         </div>
         <!-- / OC 3 BOX END -->
         
-        <!-- OC 4 BOX -->
+        <!-- OC 4 BOX --> <!-- tofu -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#005c81">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#005c81; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#005c81"></div>
                     
-                    <div class="mx-3 text-white"> tbn </div>
+                    <div class="mx-3 text-white"> Tofu </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#005c81"></div>
                 </div>
@@ -564,10 +585,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">She/her</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Length</div>
                         <div class="col-7 pl-2">6'11" / 2.1 m </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Jolly, attentive</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -580,14 +604,14 @@ Pokemon type colours:
     </div>
     <div class="row d-flex justify-content-center no-gutters">
         
-        <!-- OC 1 BOX -->
+        <!-- OC 1 BOX --> <!-- rose -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#b3d88a">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#b3d88a; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 1 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#b3d88a"></div>
                     
-                    <div class="mx-3 text-dark"> TBN </div>
+                    <div class="mx-3 text-dark"> Rose </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#b3d88a"></div>
                 </div>
@@ -613,10 +637,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">She/her</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">5'03" / 1.6 m </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Careful, finicky</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -626,14 +653,14 @@ Pokemon type colours:
         </div>
         <!-- / OC 1 BOX END -->
         
-        <!-- OC 2 BOX -->
+        <!-- OC 2 BOX --> <!-- saturn -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#57bfe6">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#57bfe6; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 2 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#57bfe6"></div>
                     
-                    <div class="mx-3 text-white"> tbn </div>
+                    <div class="mx-3 text-white"> saturn </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#57bfe6"></div>
                 </div>
@@ -659,10 +686,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">He/him</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">3'07" / 1.1 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Lax, vain</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -672,14 +702,14 @@ Pokemon type colours:
         </div>
         <!-- / OC 2 BOX END -->
         
-        <!-- OC 3 BOX -->
+        <!-- OC 3 BOX --> <!-- sienna -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#a9616d">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#a9616d; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 3 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#a9616d"></div>
                     
-                    <div class="mx-3 text-white"> tbn </div>
+                    <div class="mx-3 text-white"> sienna </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#a9616d"></div>
                 </div>
@@ -705,10 +735,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">She/her</div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">4'11" / 1.5 m</div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Hardy, stubborn</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
@@ -718,14 +751,14 @@ Pokemon type colours:
         </div>
         <!-- / OC 3 BOX END -->
         
-        <!-- OC 4 BOX -->
+        <!-- OC 4 BOX --> <!-- scotty -->
         <div class="col-md m-1">
             <div class="card" style="border-color:#d5ddf0">
             <div class="p-2 text-center text-uppercase font-weight-bold" style="background-color:#d5ddf0; font-size:1.2rem; letter-spacing:0.1rem;"> <!-- OC 4 HEADER -->
                 <div class="d-flex">
                     <div class="flex-grow-1 card my-auto ml-2" style="background-color:#d5ddf0"></div>
                     
-                    <div class="mx-3 text-dark"> tbn </div>
+                    <div class="mx-3 text-dark"> scotty </div>
                     
                     <div class="flex-grow-1 card my-auto mr-2" style="background-color:#d5ddf0"></div>
                 </div>
@@ -751,10 +784,13 @@ Pokemon type colours:
                         </div>
                 
                         <div class="col-5 pr-2 text-right text-muted"><i class="far fa-venus-mars"></i> Pronouns</div>
-                        <div class="col-7 pl-2">xx/xx</div>
+                        <div class="col-7 pl-2">He/him</div>
                 
-                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Length</div>
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-ruler"></i> Height</div>
                         <div class="col-7 pl-2">5'07" / 1.7 m </div>
+                
+                        <div class="col-5 pr-2 text-right text-muted"><i class="far fa-heart"></i> Nature</div>
+                        <div class="col-7 pl-2">Docile, adaptable</div>
                     </div> <!-- / BASIC INFO END-->
                 </div>
                 
