@@ -203,13 +203,13 @@
                     <div>
                         <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=minecraft">Minecraft</a>
                     </div>
+                    <div>
+                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=pokemon">Pokemon</a>
+                    </div>
                     
                     <div class="text-secondary text-uppercase mb-1 mt-3 font-weight-bold" style="font-size:0.9rem;">Fandom (Single)</div>
                     <div>
                         <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=deltarune">Deltarune</a>
-                    </div>
-                    <div>
-                        <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=pokemon">Pokemon</a>
                     </div>
                     <div>
                         <a class="tag btn badge badge-info fa-1x mt-1" href="https://artfight.net/~toffee_biscuits/characters?tags=wynncraft">Wynncraft</a>
