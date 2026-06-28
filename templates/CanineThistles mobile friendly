@@ -1,0 +1,135 @@
+<!-- ===== BANNER AND ICON/IMAGES ===== -->
+<div class="row no-gutters">
+    <div class="col-1 my-lg-2 mx-auto border-0 bg-transparent" style="height:150px; width:150px; background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/102906357_gH3etAXAd4EtYuy.jpg); background-repeat:no-repeat; background-size:cover; background-position:center"> </div>
+    
+    <div class="col-9 my-lg-2 mx-auto border-0 bg-transparent" style="height:150px; background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/102906318_xDSwvTz8Ip1aRf7.jpg); background-repeat:no-repeat; background-size:cover; background-position:center;">
+    </div>
+    
+    <div class="col-1 my-lg-2 mx-auto border-0 bg-transparent" style="height:150px; width:150px; background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/102906357_gH3etAXAd4EtYuy.jpg); background-repeat:no-repeat; background-size:cover; background-position:center"> </div>
+</div>
+
+
+<div class="row no-gutters">
+
+    <!-- ===== LEFT COLUMN / FRIENDS ===== -->
+    <div class="card col-md-3 p-4 mx-auto border-0 bg-dark overflow-auto" style="max-height:490px;"> 
+        <p class="text-uppercase" style="font-family:times new roman; font-size:25px; text-align:center; text-decoration:underline; margin-top:-10px; margin-bottom:15px;"> 
+            <i class="fad fa-star-christmas"></i> FRIENDS <i class="fad fa-star-christmas"></i> 
+        </p>
+        
+        <div class="row no-gutters">
+            <!-- remove color:#000000 to use default link colors -->
+            
+            <!-- Column 1-->
+            <div class="col-4">
+                <a href="USERURL1" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="USERURL1" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> friend 1 </b></a>
+            
+                <a href="USERURL4" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="USERURL4" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> friend 4 </b></a>
+            
+                <a href="USERURL7" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="USERURL7" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> friend 7 </b></a>
+            </div>
+        
+            <!-- Column 2 -->
+            <div class="col-4">
+                <a href="USERURL2" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL2" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> friend 2 </b></a>
+                
+                <a href="USERURL5" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL5" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> friend 5 </b></a>
+                
+                <a href="USERURL8" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL8" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> friend 8 </b></a>
+            </div>
+            
+            <!-- Column 3 -->
+            <div class="col-4">
+                <a href="USERURL3" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL3" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> friend 3 </b></a>
+                
+                <a href="USERURL6" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL6" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> friend 6 </b></a>
+                
+                <a href="USERURL9" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_ttAou3TQDsvISEsmKkQ5zHdip69eoks7YucPVcM0yL0alhQX01mPhzLhZEZa.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="USERURL9" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> friend 9 </b></a>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <!-- ===== MIDDLE COLUMN / INFORMATION ===== -->
+    <div class="card col-md-6 p-4 mx-auto border-0 bg-dark"> 
+    
+        <p class="text-uppercase" style="font-family:times new roman; font-size:25px; text-align:center; text-decoration:underline; margin-bottom:0px;"> NAME  | PRONOUNS | TIMEZONE | ETC </p>
+        <a href="HISTLISTURL"> <p class="text-uppercase mb-3" style="font-family:times new roman; font-size:22px; text-align:center;"><i class="fas fa-arrow-right-from-bracket"></i> HITLIST <i class="fas fa-arrow-left-from-bracket"></i></p> </a>
+        
+        <b><p style="text-align:center">Wow! important information! </p></b>
+        <p style="text-align:center">Talk a little bit about yourself! Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin elit sed tellus blandit viverra sed eget odio. Donec accumsan tempor lacus, et venenatis elit feugiat non. Duis porta eros et velit blandit dapibus. Curabitur ac finibus eros.</p>
+        
+        <hr>
+        <p style="text-align:center">
+            <i class="fas fa-check text-success"></i> i do this!
+            <br>
+            <i class="fas fa-x text-danger"></i> but i dont do this :[
+        </p>
+        <hr>
+        
+        <p style="text-align:center">
+            <u>Priorities</u>
+            <br>Friends > Idols > Bookmarks > Revenges</p>
+       <p style="text-align:center">
+            <u>Goal</u>
+            <br>1000+ Points & >50% ratio</p>
+    </div>
+    
+    
+    
+    <!-- ===== RIGHT COLUMN / STATS ===== -->
+    <div class="card col-md-3 p-4 mx-auto border-0 bg-dark overflow-auto" style="max-height:490px;"> 
+    
+        <p class="text-uppercase" style="font-family:times new roman; font-size:25px; text-align:center; text-decoration:underline; margin-top:-10px; margin-bottom:10px;"> <i class="fad fa-star-christmas" ></i> STATS <i class="fad fa-star-christmas" ></i> </p>
+        
+        <div class="row no-gutters">
+        
+            <div class="card col-6 mx-auto bg-transparent border-0" style="min-height:50px; 
+                background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/83806045_dvzhD5ZfFAmf9WE.png); background-repeat:no-repeat; background-size:fill; background-position:center;">
+            </div>
+            <div class="card col-6 mx-auto bg-transparent border-0" style="min-height:50px; 
+                background-image:url(https://artfight.net/css/emoticons/stamp_stardust.png); background-repeat:no-repeat; background-size:fill; background-position:center;">
+            </div>
+        
+            <div class="card col-6 mx-auto bg-transparent border-0 mb-5"><p style="text-align:center">X Attacks <br> X Defenses <br> XX:XX% Ratio <br> XXX Points <br> Chain Level XX</p></div>
+            <div class="card col-6 mx-auto bg-transparent border-0 mb-5"><p style="text-align:center">X Attacks <br> X Defenses <br> XX:XX% Ratio <br> XXX Points <br> Chain Level XX</p></div>
+        
+        
+            <div class="card col-6 mx-auto bg-transparent border-0" style="min-height:50px; 
+                background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/102884241_sVQavpGR6QTLI0u.png); background-repeat:no-repeat; background-size:fill; background-position:center;">
+            </div>
+            <div class="card col-6 mx-auto bg-transparent border-0" style="min-height:50px; 
+                background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/102884241_sVQavpGR6QTLI0u.png); background-repeat:no-repeat; background-size:fill; background-position:center;">
+            </div>
+        
+            <div class="card col-6 mx-auto bg-transparent border-0 mb-5"><p style="text-align:center">X Attacks <br> X Defenses <br> XX:XX% Ratio <br> XXX Points <br> Chain Level XX</p></div>
+            <div class="card col-6 mx-auto bg-transparent border-0 mb-5"><p style="text-align:center">X Attacks <br> X Defenses <br> XX:XX% Ratio <br> XXX Points <br> Chain Level XX</p></div>
+        
+        </div>
+    </div>
+</div> <!-- end -->
+
+<!-- ===== CREDITS  ===== -->
+<div class="card mx-auto my-lg-2 border-0" style="max-width:500px; text-align:center; font-size:10px;"><p>
+    <a href="https://toyhou.se/39256519.f2u-html-artfight-user-code" style="color:grey"> Code </a> | 
+    <a href="CREDITURL" style="color:grey"> Assets </a>
+</p></div>
