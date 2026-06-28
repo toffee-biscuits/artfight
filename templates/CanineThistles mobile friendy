@@ -1,0 +1,129 @@
+
+<!-- ===== BANNER AND ICON/IMAGES ===== -->
+<div class="row no-gutters">
+    <div class="col-12 my-lg-2 mx-auto border-0 bg-transparent" style="height:150px; background-image:url(https://f2.toyhou.se/file/f2-toyhou-se/images/121728805_2Nc2TqR0DRJWLis.png); background-repeat:repeat-x; background-size:contain; background-position:center;">
+    </div>
+</div>
+
+
+<div class="row no-gutters">
+
+    <!-- ===== LEFT COLUMN / FRIENDS SECTION ===== -->
+    <div class="card col-md-3 p-4 mx-auto border-0"> 
+        <div style="text-align:center; margin-top:-10px; margin-bottom:15px;"> <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121943226_imGJHqVI6Vxmm66.png"> </div>
+        
+        <div class="row no-gutters">
+            <!-- remove color:#000000 to use default link colors -->
+            
+            <!-- Column 1-->
+            <div class="col-4">
+                <a href="https://artfight.net/~ekhoecho" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/avatar/244/244537.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="https://artfight.net/~ekhoecho" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> ekhoecho </b></a>
+            
+                <a href="https://artfight.net/~Dawnpath" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/avatar/18/18492.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="https://artfight.net/~Dawnpath" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> dawnpath </b></a>
+            
+                <a href="https://artfight.net/~sphorus" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/avatar/108/108517.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="https://artfight.net/~sphorus" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> sphorus </b></a>
+            </div>
+        
+            <!-- Column 2 -->
+            <div class="col-4">
+                <a href="https://artfight.net/~grayscalee" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/avatar/26/26100.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~grayscalee" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> grayscalee </b></a>
+                
+                <a href="https://artfight.net/~ShadeSwift99" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/avatar/482/482926.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~ShadeSwift99" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> shadeswift99 </b></a>
+                
+                <a href="https://artfight.net/~pomodoko" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/avatar/1285/1285991.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~pomodoko" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> pomodoko </b></a>
+            </div>
+            
+            <!-- Column 3 -->
+            <div class="col-4">
+                <a href="https://artfight.net/~Selezic" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/avatar/483/483969.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~Selezic" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#e0434a"><b> selezic </b></a>
+                
+                <a href="https://artfight.net/~toffee_biscuits" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/avatar/70/70010.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~toffee_biscuits" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> toffee_biscuits </b></a>
+                
+                <a href="https://artfight.net/~luxphobia" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/avatar/435/435711.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/~luxphobia" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#3e8e8b"><b> luxphobia </b></a>
+            </div>
+        </div>
+    </div>
+    
+    
+    
+    <!-- ===== MIDDLE COLUMN / INFORMATION SECTION ===== -->
+    <div class="card col-md-6 p-4 mx-auto border-0"> 
+    
+        <p class="text-uppercase" style="font-size:40px;text-align:center;margin-bottom:0px;"> PEEPO </p>
+        <p style="font-size:15px;text-align:center;margin-bottom:2px;"> He/They | 22+ | AST </p>
+        
+        <div style="text-align:center;"><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121943210_AIRBS0uSPWE2Yn0.png" height="50" alt="121943210_AIRBS0uSPWE2Yn0.png"></div>
+        
+        <p style="text-align:center;">Honks my clown horn with joyous abandon— it's time again for Artfight! Looking forward to drawing people's OCs and getting to share the love of art with everyone! As always, my health is very poor so I will do my best to revenge every piece I get, but at minimum I will always leave a comment. Stay safe and have fun!</p>
+        
+        <p style="text-align:center;">
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121917030_lheskA49FWXWHtp.png" width="230" alt="121917030_lheskA49FWXWHtp.png">
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121916993_MLW6NAKoBk3dNmj.png" width="230" alt="121916993_MLW6NAKoBk3dNmj.png">
+        <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121916978_X45i85F084UoaKr.png" width="230" alt="121916978_X45i85F084UoaKr.png">
+        </p>
+    </div>
+    
+    
+    
+    <!-- ===== RIGHT COLUMN / FEATURED CHARACTERS ===== -->
+    <div class="card col-md-3 p-4 mx-auto border-0"> 
+        <div style="text-align:center; margin-top:-10px; margin-bottom:15px;"> <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/121943219_qWqwJJ4aa8NhVi4.png"> </div>
+        
+        <div class="row no-gutters">
+            <!-- remove color:#000000 to use default link colors -->
+            
+            <!-- Column 1-->
+            <div class="col-4">
+                <a href="https://artfight.net/character/4766232.kiona-barsinas-hwbf5" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_Vd9uWVn65WGLdHCLy1DJF9SJmDDuh6WbN25bhgs9z5fzQ9YUVeUiPMBhTZn6.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="https://artfight.net/character/4766232.kiona-barsinas-hwbf5" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> kiona </b></a>
+            
+                <a href="https://artfight.net/character/4702301.nico-fontana-and-mehlota-fallen-london" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_UIdnBmFQN8DBiVtmUeSs5FWMp5fenyqKeCtZHVwam5P62PiKqehsPpwUQJ34.png); background-repeat:no-repeat; background-size:cover; background-position:center;"> </a>
+                <a href="https://artfight.net/character/4702301.nico-fontana-and-mehlota-fallen-london" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> nico </b></a>
+            </div>
+        
+            <!-- Column 2 -->
+            <div class="col-4">
+                <a href="https://artfight.net/character/6806473.koleus-sona" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_M71IFVd06gU0e96tk3ZV30bS9F9ttdHGZvL8zWOkDWhnGIm2QWA9cMY5a461.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/character/6806473.koleus-sona" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> koleus </b></a>
+                
+                <a href="https://artfight.net/character/4702747.cassius-wraith-fallen-london" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px;  
+                background-image:url(https://images.artfight.net/character/th_uRz0ZuQrSv4gG4qhfhcqVqEcoVOR760M7VsZPD4WUVWXvA0BD1wJYWetTy3O.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/character/4702747.cassius-wraith-fallen-london" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> cassius </b></a>
+            </div>
+            
+            <!-- Column 3 -->
+            <div class="col-4">
+                <a href="https://artfight.net/character/8888854.coyote-genshin-impact" class="card mx-auto m-1 bg-transparent border-0" style="min-height:100px; max-width:100px; 
+                background-image:url(https://images.artfight.net/character/th_dPGAOncLJl21y9Cy14Iui8DIaTRhlq7xdEvo5uCKbYmlSZpJ0IjxfN9nMv0u.png); background-repeat:no-repeat; background-size:cover; background-position:center;"></a>
+                <a href="https://artfight.net/character/8888854.coyote-genshin-impact" class="card mx-auto mb-2 border-0 bg-transparent text-uppercase" style="text-align:center; font-size:13px; color:#ff8040"><b> coyote </b></a>
+            </div>
+        </div>
+
+</div> <!-- end -->
+
+<!-- ===== CREDITS  ===== -->
+<div class="card mx-auto my-lg-2 border-0" style="max-width:500px; text-align:center; font-size:10px;"><p>
+    <a href="https://toyhou.se/39256519.f2u-html-artfight-user-code" style="color:grey"> Code </a> | 
+    <a href="https://toyhou.se/39896977.artfight-deco/gallery" style="color:grey"> Assets </a>
+</p></div>
