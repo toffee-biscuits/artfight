@@ -42,15 +42,18 @@
      –––––––––––––––-->
      <p> Hey!! My name's Toffee, I use he/they pronouns, and I'm 22! 2026 will be my ninth time running! I actually haven't drawn much of anything this year but I'm determined not to miss artfight -- I just might be a bit slow this year <i class="mx-1 fas fa-heart"></i> I'm also still thinking about pokemon za so expect many pkm trainers lol</p>
      
-     <p>I'd usually say that I post my attacks on social media but I haven't touched my art accs in ages... They'll get posted at some point eventually maybe. If you don't want me to post your oc, lmk! Also, you're welcome to put my art on toyhouse or whatever as long as you credit me :D </p>
+     <p>I'd usually say that I post my attacks on social media but I haven't touched my art accs in ages... They'll get posted at some point eventually maybe. If you don't want me to post your oc, lmk! Also, you're welcome to put my art on toyhouse or whatever as long as you credit me :D</p>
      <!--about text end-->
      
+    <img class="mb-n5 mt-n4 ml-n5" style="max-height:100px;" src="https://f2.toyhou.se/file/f2-toyhou-se/images/121690364_AFV0a0Al8bWXQKo.png"> <!-- insert decor-->
+     
      <p class="text-center" style="font-size:1.3rem;">
-        <a href="https://toffee-biscuits.tumblr.com/">  <i class="mx-1 fab fa-lg fa-square-tumblr"></i></a>
-        <a href="https://twitter.com/toffee_biscuits">  <i class="mx-1 fab fa-lg fa-square-instagram"></i></a>
-        <a href="https://instagram.com/toffee_biscuits/"><i class="mx-1 fab fa-lg fa-square-twitter"></i></a>
-        <a href="https://toyhou.se/toffeebiscuits">     <i class="mx-1 fas fa-lg fa-house-chimney-heart"></i></a>
-        <a href="https://toffee-biscuits.carrd.co/">    <i class="mx-1 fas fa-lg fa-square-arrow-up-right"></i></a>
+        <a title="Toyhouse" href="https://toyhou.se/toffeebiscuits" target="_blank">     <i class="mx-1 fas fa-lg fa-house-chimney-heart"></i></a>
+        <a title="Tumblr" href="https://toffee-biscuits.tumblr.com/" target="_blank">  <i class="mx-1 fab fa-lg fa-square-tumblr"></i></a>
+        <a title="Instagram" href="https://twitter.com/toffee_biscuits" target="_blank">  <i class="mx-1 fab fa-lg fa-square-instagram"></i></a>
+        <a title="Twitter" href="https://instagram.com/toffee_biscuits/" target="_blank"><i class="mx-1 fab fa-lg fa-square-twitter"></i></a>
+        <a title="Commisions" href="https://toffee-biscuits.carrd.co/#commissions" target="_blank">    <i class="mx-1 fas fa-lg fa-square-dollar"></i></a>
+        <a title="Carrd" href="https://toffee-biscuits.carrd.co/" target="_blank">    <i class="mx-1 fas fa-lg fa-square-arrow-up-right"></i></a>
     </p>
      
      <img class="mx-auto mb-2" style="max-height:30px;" src="https://64.media.tumblr.com/db5b5e03d976e48c1733ef99759b6276/0b9f16114d6de7bc-9b/s1280x1920/1d95520a8c752db70e40eb3c0e3d9f8cd9c312f4.pnj"> <!--divider-->
@@ -101,19 +104,20 @@
        <span class="text-muted font-weight-bold"> <i class="fas fa-users"></i> FRIENDS </span> <!--header-->
         <!--links - replace the # with a username!-->
         <div class="d-flex flex-wrap font-weight-bold ml-n1">
-        <a class="mx-1" href="/~corvoidae" style="color:#e0434a"> corvoidae </a>
-        <a class="mx-1" href="/~Cheru" style="color:grey"> Cheru </a>
-        <a class="mx-1" href="/~crazypeep" style="color:#ff8040"> crazypeep </a>
-        <a class="mx-1" href="/~Dawnpath" style="color:#ff8040"> Dawnpath </a>
-        <a class="mx-1" href="/~ekhoecho" style="color:#e0434a"> ekhoecho </a>
-        <a class="mx-1" href="/~FractalDot" style="color:grey"> FractalDot </a>
-        <a class="mx-1" href="/~grayscalee" style="color:#e0434a"> grayscalee </a>
-        <a class="mx-1" href="/~KingTheGhast" style="color:#3e8e8b"> KingTheGhast </a>
-        <a class="mx-1" href="/~luxphobia" style="color:#3e8e8b"> luxphobia </a>
-        <a class="mx-1" href="/~PacmanThePeach" style="color:grey"> PacmanPeach </a>
-        <a class="mx-1" href="/~Selezic" style="color:#e0434a"> Selezic </a>
-        <a class="mx-1" href="/~ShadeSwift99" style="color:#3e8e8b"> ShadeSwift99 </a>
-        <a class="mx-1" href="/~sphorus" style="color:#ff8040"> sphorus </a>
+        <a class="mx-1" href="/~corvoidae" target="_blank" style="color:#e0434a"> corvoidae </a>
+        <a class="mx-1" href="/~Cheru" target="_blank" style="color:grey"> Cheru </a>
+        <a class="mx-1" href="/~chizzdudlz" target="_blank" style="color:#3e8e8b"> chizzdudlz </a>
+        <a class="mx-1" href="/~crazypeep" target="_blank" style="color:#ff8040"> crazypeep </a>
+        <a class="mx-1" href="/~Dawnpath" target="_blank" style="color:#ff8040"> Dawnpath </a>
+        <a class="mx-1" href="/~ekhoecho" target="_blank" style="color:#e0434a"> ekhoecho </a>
+        <a class="mx-1" href="/~FractalDot" target="_blank" style="color:grey"> FractalDot </a>
+        <a class="mx-1" href="/~grayscalee" target="_blank" style="color:#e0434a"> grayscalee </a>
+        <a class="mx-1" href="/~KingTheGhast" target="_blank" style="color:#3e8e8b"> KingTheGhast </a>
+        <a class="mx-1" href="/~luxphobia" target="_blank" style="color:#3e8e8b"> luxphobia </a>
+        <a class="mx-1" href="/~PacmanThePeach" target="_blank" style="color:#e0434a"> PacmanThePeach </a>
+        <a class="mx-1" href="/~Selezic" target="_blank" style="color:#e0434a"> Selezic </a>
+        <a class="mx-1" href="/~ShadeSwift99" target="_blank" style="color:#3e8e8b"> ShadeSwift99 </a>
+        <a class="mx-1" href="/~sphorus" target="_blank" style="color:#ff8040"> sphorus </a>
        </div> <!--links end-->
       </div> <!--fri col end-->
       
@@ -125,12 +129,12 @@
        <!--UP-->
        <div class="d-flex flex-wrap ml-n1">
         <span class="mx-1"> <i class="text-success fas fa-angles-up fa-lg"></i> Revenges </span> 
-        <span class="mx-1"> <i class="text-success fas fa-angle-up fa-lg"></i> Friends </span>
+        <span class="mx-1"> <i class="text-success fas fa-angle-up fa-lg"></i> Bookmarks </span>
        </div> <!--up end-->
        
        <!--NEUTRAL-->
        <div class="d-flex flex-wrap ml-n1">
-        <span class="mx-1"> <i class="text-warning fas fa-dash fa-lg"></i> Bookmarks </span>
+        <span class="mx-1"> <i class="text-warning fas fa-dash fa-lg"></i> Friends </span>
        </div> <!--neutral end-->
        
        <!--DOWN-->
@@ -139,6 +143,11 @@
         <span class="mx-1"> <i class="text-danger fas fa-angles-down fa-lg"></i> Chains </span>
        </div> <!--down end-->
       </div> <!--pri col end-->
+      
+        <span class="ml-auto " style="max-width:120px;height:0px;margin-right:-1rem;">
+            <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/122478946_7lFOLMLA82c2CIg.png?1782607252" style="margin-top:-6.5rem;"> <!-- insert decor-->
+        </span>
+    
      </div> <!--FRIENDS + PRIORITIES END-->
      
      <img class="mx-auto mb-2 mt-2" style="max-height:30px;" src="https://64.media.tumblr.com/db5b5e03d976e48c1733ef99759b6276/0b9f16114d6de7bc-9b/s1280x1920/1d95520a8c752db70e40eb3c0e3d9f8cd9c312f4.pnj"> <!--divider-->
@@ -162,10 +171,10 @@
      
      <div class="row justify-content-center no-gutters">
         <span class="mx-2 text-secondary" style="font-size:smaller;"><i class="fas fa-paintbrush-pencil"></i> #</span>
-        <span class="mx-2" style="font-size:smaller; color:#9e9169;"><i class="fas fa-coffee-bean"></i> 7</span>
-        <span class="mx-2" style="font-size:smaller; color:#911a1c;"><i class="fas fa-bat"></i> 4</span>
-        <span class="mx-2" style="font-size:smaller; color:#d87f4e;"><i class="fas fa-mug-saucer"></i> 9</span>
-        <span class="mx-2" style="font-size:smaller; color:#BB48E5;"><i class="fas fa-diamonds-4"></i> 12</span>
+        <span class="mx-2" style="font-size:smaller; color:#9e9169;"><i class="fas fa-coffee-bean"></i> 7</span> <!--18-->
+        <span class="mx-2" style="font-size:smaller; color:#911a1c;"><i class="fas fa-bat"></i> 4</span> <!--19-->
+        <span class="mx-2" style="font-size:smaller; color:#d87f4e;"><i class="fas fa-mug-saucer"></i> 9</span> <!--20-->
+        <span class="mx-2" style="font-size:smaller; color:#BB48E5;"><i class="fas fa-diamonds-4"></i> 12</span> <!--21-->
      </div>
      
      <div class="d-flex flex-wrap justify-content-center my-1">
@@ -179,11 +188,11 @@
      
      <div class="row justify-content-center no-gutters">
         <span class="mx-2 text-secondary" style="font-size:smaller;"><i class="fas fa-paintbrush-pencil"></i> #</span>
-        <span class="mx-2" style="font-size:smaller; color:#F26DDC;"><i class="fas fa-mushroom"></i> 8</span>
-        <span class="mx-2" style="font-size:smaller; color:#4eadd9;"><i class="fas fa-paw"></i> 9</span>
-        <span class="mx-2" style="font-size:smaller; color:#755ECF;"><i class="fas fa-sparkles"></i> 16</span>
-        <span class="mx-2" style="font-size:smaller; color:#efae37;"><i class="fas fa-skull"></i> 9</span>
-        <span class="mx-2" style="font-size:smaller; color:#5190a5;"><i class="fas fa-droplet"></i> ??</span>
+        <span class="mx-2" style="font-size:smaller; color:#F26DDC;"><i class="fas fa-mushroom"></i> 8</span> <!--22-->
+        <span class="mx-2" style="font-size:smaller; color:#4eadd9;"><i class="fas fa-paw"></i> 9</span> <!--23-->
+        <span class="mx-2" style="font-size:smaller; color:#755ECF;"><i class="fas fa-sparkles"></i> 16</span> <!--24-->
+        <span class="mx-2" style="font-size:smaller; color:#efae37;"><i class="fas fa-skull"></i> 9</span> <!--25-->
+        <span class="mx-2" style="font-size:smaller; color:#5190a5;"><i class="fas fa-droplet"></i> ??</span> <!--26-->
      </div>
      
      
@@ -214,7 +223,7 @@
   <div class="col-12 p-1 mt-2"> <!--COL B1-->
    <div class="card" style="border-color:#4c979a;"> <!---->
      
-     <img src="https://i.postimg.cc/2yMmbhWb/2026-06-21.png" alt="2025-06-23.png"> <!-- insert team card-->
+     <img src="https://i.postimg.cc/26ZhqRVW/2026-06-21.png"> <!-- insert team card-->
      
    </div> <!--end-->
   </div> <!--COL B1 END-->
@@ -238,19 +247,17 @@
      –––––––––––––––
      -->
      <div class="my-n1">
-     <span class="text-muted font-weight-bold"> <i class="fas fa-folder"></i> I HAVE... </span> <!--header-->
+     <span class="text-muted font-weight-bold"> <i class="fas fa-folder"></i> I HAVE... </span> 
+     <span style="font-size:smaller;color:grey;">(Click me!)</span> <!--header-->
      <!--species info-->
      <div class="d-flex flex-wrap font-weight-bold mb-1" style="margin-top: .2rem; font-size: .7rem">
       <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=human" class="text-reset"> Humans      </a></span>
-      <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=furry" class="text-reset"> Anthros     </a></span>
+      <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=furry"  class="text-reset"> Anthros     </a></span>
       <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=feral" class="text-reset"> Ferals      </a></span>
       <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=monster" class="text-reset"> Monsters    </a></span>
       <span class="card bg-success p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=robot" class="text-reset"> Robots       </a></span>
-     </div> <!--species info end-->
-     <!--species info-->
-     <div class="d-flex flex-wrap font-weight-bold mb-1" style="margin-top: .2rem; font-size: .7rem">
-      <span class="card bg-danger p-1 mr-1 mb-1"> Worms         </span>
-      <span class="card bg-danger p-1 mr-1 mb-1"> Simple-shaped </span>
+      <span class="card bg-warning p-1 mr-1 mb-1"><a href="https://artfight.net/~toffee_biscuits/characters?tags=simple+shape" class="text-reset"> Simple Shaped </a></span>
+      <span class="card bg-danger p-1 mr-1 mb-1"> Worms </span>
      </div> <!--species info end-->
      </div><!--SPECIED OWNED END-->
      
@@ -271,8 +278,8 @@
        <div class="d-flex flex-wrap ml-n2">
         <span class="mx-2"> <i class="text-success fas fa-square-check fa-lg"></i> Humanoids </span>
         <span class="mx-2"> <i class="text-success fas fa-square-check fa-lg"></i> Anthros </span>
-        <span class="mx-2"> <i class="text-success fas fa-square-check fa-lg"></i> Robots </span>
         <span class="mx-2"> <i class="text-warning fas fa-square-question fa-lg"></i> Ferals </span>
+        <span class="mx-2"> <i class="text-success fas fa-square-check fa-lg"></i> Robots </span>
        </div> <!--can info end-->
       </div> <!--can col end-->
       
@@ -309,11 +316,12 @@
      <div class="d-flex flex-wrap mb-3">
       <span class="text-muted mr-3 font-weight-bold"> <i class="fas fa-sparkles fa-lg"></i> PROFILE DECOR </span> <!--header-->
       <!--links-->
-      <a class="mr-3" href="https://toyhou.se/27847531.art-fight-stamps"><i class="fas fa-paintbrush-pencil"></i> Stamps</a>
-      <a class="mr-3" href="https://toyhou.se/39896977.artfight-deco/"><i class="fas fa-input-text"></i> Team Name</a>
-      <a class="mr-3" href="https://toyhou.se/39886018.artfight-2026-assets-tragedy/"><i class="fas fa-moon"></i> Mask/Moon</a>
-      <a class="mr-3" href="https://toyhou.se/33790705.jebs-artfight-decor/"><i class="fas fa-cloud"></i> Clouds/Droplets</a>
-      <a class="mr-3" href="https://www.tumblr.com/cafekitsune/733288705575501824/dainty-chains-green-blue"><i class="fas fa-grip-lines"></i> Dividers</a>
+      <a class="mr-3" href="https://toyhou.se/27847531.art-fight-stamps" target="_blank"><i class="fas fa-paintbrush-pencil"></i> Stamps</a>
+      <a class="mr-3" href="https://toyhou.se/39896977.artfight-deco/" target="_blank"><i class="fas fa-input-text"></i> Team Name</a>
+      <a class="mr-3" href="https://toyhou.se/39886018.artfight-2026-assets-tragedy/" target="_blank"><i class="fas fa-moon"></i> Mask/Moon</a>
+      <a class="mr-3" href="https://toyhou.se/33834065.f2u-art-fight-profile-decor" target="_blank"><i class="fas fa-flower"></i> Rose</a>
+      <a class="mr-3" href="https://toyhou.se/33790705.jebs-artfight-decor/" target="_blank"><i class="fas fa-cloud"></i> Clouds/Droplets</a>
+      <a class="mr-3" href="https://www.tumblr.com/cafekitsune/733288705575501824/dainty-chains-green-blue" target="_blank"><i class="fas fa-grip-lines"></i> Dividers</a>
      </div> <!--decor credits end-->
      
      <!--
@@ -321,7 +329,7 @@
      –––––––––––––––-->
      <div class="d-flex flex-wrap">
       <span class="text-muted mr-3 font-weight-bold"> <i class="fas fa-code fa-lg"></i> CODE </span> <!--header-->
-       <a class="mr-3" href="https://toyhou.se/39871688"> Torchiiko </a>
+       <a class="mr-3" href="https://toyhou.se/39871688" target="_blank"> Torchiiko </a>
      </div> <!--code credit end-->
      
     </div> <!--credits body end-->
