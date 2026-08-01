@@ -200,7 +200,7 @@
         <span class="mx-2" style="font-size:smaller; color:#4eadd9;"><i class="fas fa-paw"></i> 9 / 9</span> <!--23-->
         <span class="mx-2" style="font-size:smaller; color:#755ECF;"><i class="fas fa-sparkles"></i> 16 / 13</span> <!--24-->
         <span class="mx-2" style="font-size:smaller; color:#efae37;"><i class="fas fa-skull"></i> 9 / 7</span> <!--25-->
-        <span class="mx-2" style="font-size:smaller; color:#5190a5;"><i class="fas fa-droplet"></i> ?? / ??</span> <!--26-->
+        <span class="mx-2" style="font-size:smaller; color:#5190a5;"><i class="fas fa-droplet"></i> 55 / 23</span> <!--26-->
      </div>
      
      
@@ -238,6 +238,11 @@
      
     <div class="card-body"> <!--updates body-->
     <div class="overflow-auto mr-n2 pr-2 mt-n2" style="max-height: 200px"> <!--scrollbox-->
+    
+        <p><span class="badge badge-info p-1" style="font-size:0.7rem;background-color:#4c979a"> 1/Aug </span> 
+        We did it! It's over! <img src="https://cdn.discordapp.com/emojis/1133084690845270106.webp" style="max-width:25px"> <span style="font-size:smaller;color:grey;">(Yes I know there's an extension, I've just decided not to lol)</span> This has been such a good event for me, I've had tons of fun! I'm still baffled by how many attacks I managed to do this year <img src="https://cdn.discordapp.com/emojis/758104688897032243.webp" style="max-width:25px"> Who is this guy that can suddenly draw 50 things in a month?? I'll be posting these to my socials over <span style="font-size:smaller;color:grey;">*checks queue*</span> the next several months lol </p> 
+    
+        <img class="mx-auto mb-2 mt-n2" style="max-height:30px;" src="https://64.media.tumblr.com/db5b5e03d976e48c1733ef99759b6276/0b9f16114d6de7bc-9b/s1280x1920/1d95520a8c752db70e40eb3c0e3d9f8cd9c312f4.pnj"> <!--divider-->
     
         <p><span class="badge badge-info p-1" style="font-size:0.7rem;background-color:#4c979a"> 27/July </span> 
         Final stretch! Just one week left! <img src="https://cdn.discordapp.com/emojis/1047263158429028483.webp?animated=true" style="max-width:25px"> I'm on track to have 50+ attacks this year (how?!?! <img src="https://cdn.discordapp.com/emojis/1157307237270814845.webp" style="max-width:25px">), I just need to remember to post them all before the deadline lol</p>
@@ -384,13 +389,40 @@
 <div class="row no-gutters justify-content-center"> <!--ROW A-->
 <div class="col-md-5 mb-n2 my-auto"> <!--COL 1-->
   
-  <!--TEAM CARD–––––––––––––––-->
-  <div class="col-12 p-1 mt-1"> <!--COL B1-->
-   <div class="card" style="border-color:#4c979a;"> <!---->
-     
-     <img src="https://i.postimg.cc/26ZhqRVW/2026-06-21.png"> <!-- insert team card-->
-     
-   </div> <!--end-->
-    </div> <!--COL B1 END-->
+<!--TEAM CARD–––––––––––––––-->
+<div class="col-12 p-1 mt-1"> <!--COL B1-->
+    <div class="card" style="border-color:#4c979a;"> <!---->
+        <p class="card-header text-white font-weight-bold py-2" style="font-size:1.4rem;background-color:#223C53;"> Toffee's post-event guide to making a shit ton of attacks </p> <!--updates header-->
+    
+    <div class="overflow-auto" style="max-height: 300px">
+        <p class="p-2 pl-3 pr-3">
+            Hey. Hey look at the box above this one. See those stats? Bet you're wondering how I beat my previous attack record by almost four times. Me too ngl I wasn't expecting this 
+            <br><br>
+            If you're looking to increase the amount of attacks you can make in one season, I have some tips from how I went about it this year. Disclaimer that this obviously isn't the only or "right" way to approach artfight, and if you only made one attack that's still great! This is just what I did. 
+        </p>
+        
+        <ul class="pl-4 pr-3">
+            <li class="mb-2 ml-2"> Medium effort art! Nothing I made was particularly bad/low effort but it wasn't masterpieces or experimental either. Pick a style/stage of your art that feels complete but can comfortably be done in less time. I chose to not do full shading or any backgrounds, as those take me a lot longer than the rest of the process </li>
+            
+            <li class="mb-2 ml-2"> Pre-load as much of the decision making as possible. Gather your targets, references, ideas, etc beforehand so that once you actually sit down to draw, you don't have to put the energy into coming up with something new on the spot </li>
+            
+            <li class="mb-2 ml-5"> As a follow up to that, gather more targets/ideas than you think you'll need. It's good to have options! Maybe when you picked the ref you thought it'd be fun to draw but by the time you actually get to it, it just doesn't spark joy. Even with the absurd amount of attacks I did this year, I only attacked ~50% of my bookmarks, which is about average for me. I think of them more like prompts instead of a set list I <i>have</i> to complete </li>
+            
+            <li class="mb-2 ml-2"> Narrow down your selection of targets to a "theme". This is less influential, but I've found it helps to set a criteria for the ocs you'll draw to again lower the decision making (I've picked whatever fandom I was most into each year). If you feel overwhelmed when you have too many options, this is a pretty effective way to combat that! This also helps with pre-picking targets as you can go through tags </li>
+            
+            <li class="mb-2 ml-2"> This is obvious but draw often, as much as you can. I can't lie: I have 100% neglected my other hobbies this month lmao. And I'm also unemployed. All of my free time has gone towards artfight, I don't necessarily recomend this but I don't regret it. Of course, how much free time you have is often out of your control, but consider how you spend it and what you're prioritising.</li>
+            
+            <li class="mb-2 ml-2"> There's also a bunch of changes I made to my personal art process this year that made the turn around time for each piece shorter, but that's not exactly something I can advise you on. See if there's anything you can cut out or reduce that doesn't affect the end result too much I guess? </li>
+            
+            <li class="ml-2"> Have fun and remember that there are no minimum requirements for art fight <img src="https://cdn.discordapp.com/emojis/898272652479840266.webp" style="max-width:25px"> </li>
+        </ul>
+        
+        <p class="pl-2" style="font-size:smaller;color:grey;"> Note to self: this box is usually for the team card o7
+        
+        </p>
+    </div>
+    </div> <!--end-->
+</div> <!--COL B1 END-->
+
 </div> <!--COL 1 END-->
 </div>
